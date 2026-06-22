@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Inventory System</title>
+    <style>
+        :root { 
+            --bg-dark: #0f0f0f; 
+            --card-bg: #181818; 
+            --text-main: #e0e0e0; 
+            --text-dim: #a0a0a0;
+            --neon-green: #39FF14; 
+            --botanical-green: #4c7c4e;
+            --border: #2a2a2a;
+            --neon-blue: #00E5FF;
+        }
+        
+        body { 
+            font-family: -apple-system, sans-serif; 
+            background: var(--bg-dark); color: var(--text-main); 
+            margin: 0; padding: 5px; 
+        }
+
+        .project-credit { text-align: center; font-size: 0.6rem; color: var(--text-dim); letter-spacing: 1px; margin-top: 2px; }
+
+        .header-meta { 
+            display: flex; justify-content: space-between; align-items: center; 
+            max-width: 1100px; margin: 0 auto 8px; padding: 0 5px;
+        }
+        .welcome-title { color: var(--neon-green); font-size: 0.9rem; font-weight: 800; }
+        .current-date { font-size: 0.7rem; color: var(--text-dim); text-transform: uppercase; }
+
+        .container { max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; min-height: 95vh; }
+
+        .search-panel {
+            background: var(--card-bg); padding: 12px; border-radius: 15px;
+            border: 2px solid var(--neon-green); margin-bottom: 10px;
+        }
+
+        .top-controls { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 10px; gap: 10px; }
+        
+        .btn-new { 
+            background: transparent; color: var(--neon-green); border: 1px solid var(--neon-green); 
+            padding: 6px 12px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 0.7rem;
+            transition: all 0.2s;
+        }
+        .btn-new:hover { background: rgba(57, 255, 20, 0.1); }
+
+        .vendor-box { width: 160px; }
+
+        #selectionPreview { 
+            text-align: center; font-weight: bold; color: var(--text-dim); 
+            margin-bottom: 10px; font-size: 0.85rem; min-height: 1.2em;
+            padding: 5px; border-bottom: 1px solid #333;
+        }
+
+        .main-search-row { display: grid; grid-template-columns: 1fr 100px; gap: 10px; }
+        .input-group label { display: block; font-size: 0.65rem; color: var(--neon-green); font-weight: 700; margin-bottom: 4px; text-transform: uppercase; }
+
+        input, select { 
+            width: 100%; padding: 10px; background: #000; border: 1.5px solid var(--border); 
+            border-radius: 8px; color: #fff; font-size: 0.9rem; box-sizing: border-box;
+        }
+        input:focus, select:focus { border-color: var(--neon-green); outline: none; }
+
+        #suggestions {
+            position: absolute; top: 100%; left: 0; width: 100%; 
+            background: #1a1a1a; border: 1px solid var(--botanical-green);
+            z-index: 2000; max-height: 300px; overflow-y: auto; border-radius: 0 0 10px 10px;
+            display: none; box-shadow: 0 10px 25px rgba(0,0,0,0.7);
+        }
+        .suggestion-item { padding: 10px 12px; cursor: pointer; border-bottom: 1px solid #222; font-size: 0.85rem; color: #fff; }
+        .suggestion-item:hover { background: #333; color: var(--neon-green); }
+
+        .results-wrapper { 
+            border: 1px solid var(--border); border-radius: 10px; 
+            overflow: hidden; background: #000; flex-grow: 1; 
+            max-height: 48vh; overflow-y: auto; margin-bottom: 10px; 
+        }
+        .header { background: var(--botanical-green); display: grid; grid-template-columns: 1fr 2fr 1fr 100px; padding: 10px; font-weight: bold; font-size: 0.75rem; position: sticky; top: 0; z-index: 10; }
+        
+        .row { display: grid; grid-template-columns: 1fr 2fr 1fr 100px; padding: 10px; border-bottom: 1px solid #1a1a1a; font-size: 0.8rem; align-items: center; }
+        .row:hover { background: #0a0a0a; }
+        
+        /* Estilos para los bloques de tamaños limpios */
+        .size-container { display: flex; flex-direction: column; gap: 4px; }
+        .row-size-clean { color: var(--neon-green); font-weight: bold; font-size: 0.8rem; }
+        .row-size-details { color: var(--text-dim); font-size: 0.65rem; }
+
+        /* Contenedor de botones de acción por celda */
+        .action-container { display: flex; flex-direction: column; gap: 4px; }
+
+        /* Botón ADD discreto */
+        .btn-action {
+            background: transparent; color: var(--text-dim); border: 1px solid transparent;
+            padding: 3px 6px; border-radius: 4px; cursor: pointer; font-size: 0.65rem; font-weight: 500;
+            text-transform: uppercase; transition: all 0.2s; text-align: center; width: 100%;
+            box-sizing: border-box;
+        }
+        .btn-action:hover { color: var(--neon-blue); background: rgba(0, 229, 255, 0.08); }
+
+        #plantDetailCard {
+            background: #111; border-top: 3px solid var(--botanical-green);
+            border-radius: 10px; padding: 15px; 
+            display: none; 
+            margin-top: 5px;
+            box-shadow: 0 -5px 15px rgba(0,0,0,0.5);
+            margin-bottom: 10px;
+        }
+        .detail-title { color: var(--neon-green); font-size: 1rem; font-weight: bold; margin-bottom: 10px; text-transform: uppercase; border-bottom: 1px solid #333; padding-bottom: 5px; }
+        .detail-item { font-size: 0.85rem; color: #fff; margin-bottom: 6px; padding-left: 5px; border-left: 2px solid var(--botanical-green); }
+
+        /* Panel de Pedido compacto */
+        .order-panel {
+            background: #121212; padding: 8px 12px; border-radius: 10px;
+            border: 1px solid #333; margin-top: 5px; margin-bottom: 5px;
+            display: none; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.6);
+        }
+        .order-panel-header {
+            display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;
+        }
+        .order-title { color: var(--neon-blue); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; }
+        .btn-download {
+            background: transparent; color: var(--neon-blue); border: 1px solid var(--neon-blue);
+            padding: 3px 8px; border-radius: 4px; cursor: pointer; font-weight: 600; font-size: 0.65rem;
+            text-transform: uppercase; transition: all 0.2s;
+        }
+        .btn-download:hover { background: var(--neon-blue); color: #000; }
+        
+        #orderPreview {
+            background: #050505; border: 1px solid #1a1a1a; border-radius: 6px;
+            padding: 8px; font-family: monospace; font-size: 0.7rem; white-space: pre-wrap;
+            max-height: 100px; overflow-y: auto; color: #ccc;
+        }
+
+        /* Estilo del botón eliminar (X) */
+        .btn-delete-item {
+            background: transparent;
+            color: #ff4444;
+            border: 1px solid #ff4444;
+            border-radius: 50%;
+            width: 16px;
+            height: 16px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 0.6rem;
+            font-weight: bold;
+            padding: 0;
+            margin-left: 10px;
+            transition: all 0.2s;
+            flex-shrink: 0;
+        }
+        .btn-delete-item:hover {
+            background: rgba(255, 68, 68, 0.2);
+            color: #ff6666;
+        }
+
+        /* --- ESTILOS: Separadores de grupos centrados en medio de la tabla con líneas laterales --- */
+        .group-category-header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #141414;
+            padding: 6px 10px;
+            font-size: 0.7rem;
+            font-weight: 800;
+            color: var(--neon-blue);
+            letter-spacing: 1px;
+            margin-top: 4px;
+            position: sticky;
+            top: 31px; 
+            z-index: 5;
+        }
+        .group-line-left {
+            flex-grow: 1;
+            height: 1px;
+            background: linear-gradient(to left, rgba(0, 229, 255, 0.3), transparent);
+            margin-right: 12px;
+        }
+        .group-line-right {
+            flex-grow: 1;
+            height: 1px;
+            background: linear-gradient(to right, rgba(0, 229, 255, 0.3), transparent);
+            margin-left: 12px;
+        }
+
+        @media (max-width: 600px) {
+            .vendor-box { width: 130px; }
+            .header, .row { grid-template-columns: 1fr 1.5fr 0.8fr 80px; font-size: 0.7rem; }
+            .main-search-row { grid-template-columns: 1fr 85px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="project-credit">PROJECT BY Henry P</div>
+    
+    <div class="header-meta">
+        <div class="welcome-title">WELCOME</div>
+        <div class="current-date" id="currentDate"></div>
+    </div>
+
+    <div class="container">
+        <div class="search-panel">
+            <div class="top-controls">
+                <button class="btn-new" onclick="resetSearch()">NEW SEARCH</button>
+                <div class="vendor-box">
+                    <div class="input-group">
+                        <label>Vendor</label>
+                        <select id="vendorFilter" onchange="handleComboChange()"></select>
+                    </div>
+                </div>
+            </div>
+
+            <div id="selectionPreview">Waiting for selection...</div>
+
+            <div class="main-search-row">
+                <div class="input-group" style="position: relative;">
+                    <label>Botanical Name / SKU</label>
+                    <input type="text" id="plantInput" placeholder="Type name or (sku)..." autocomplete="off">
+                    <div id="suggestions"></div>
+                </div>
+                <div class="input-group">
+                    <label>Size</label>
+                    <select id="sizeFilter" onchange="handleComboChange()">
+                        <option value="any">Any</option>
+                        <option value="01">01G / 2Q</option>
+                        <option value="02">02G</option>
+                        <option value="03">03G</option>
+                        <option value="05">05G</option>
+                        <option value="07">07G</option>
+                        <option value="10">10G</option>
+                        <option value="15">15G</option>
+                        <option value="24">24G</option>
+                        <option value="36">36G</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-wrapper">
+            <div id="resultsHeader" class="header" style="display: none;">
+                <div>VENDOR</div><div>NAME</div><div>SIZE</div><div>ACTION</div>
+            </div>
+            <div id="resultsBody"></div>
+        </div>
+
+        <div id="plantDetailCard"></div>
+
+        <div id="orderPanel" class="order-panel">
+            <div class="order-panel-header">
+                <div class="order-title">CURRENT ORDER LIST</div>
+                <button class="btn-download" onclick="downloadOrderFile()">Download Order</button>
+            </div>
+            <div id="orderPreview">No items added to order yet.</div>
+        </div>
+    </div>
+
+<script>
+    let plantDB = [];
+    let suggestionsDB = [];
+    let lastSelectedPlantName = "";
+    let currentOrder = {}; 
+
+    const formasAIgnorar = ["PREMIUM", "ASSORTED", "STD", "MULT", "PATIO", "ON", "POLE", "BOWL", "GARDEN", "CLAY", "SHRUB", "TREE", "STK", "COLUMN", "DWF", "SD", "MULTI", "TOP"];
+
+    const plantInput = document.getElementById('plantInput');
+    const vendorFilter = document.getElementById('vendorFilter');
+    const sizeFilter = document.getElementById('sizeFilter');
+    const sugBox = document.getElementById('suggestions');
+    const resultsBody = document.getElementById('resultsBody');
+    const resultsHeader = document.getElementById('resultsHeader');
+    const preview = document.getElementById('selectionPreview');
+    const detailCard = document.getElementById('plantDetailCard');
+    const orderPanel = document.getElementById('orderPanel');
+    const orderPreview = document.getElementById('orderPreview');
+
+    function setDate() {
+        const now = new Date();
+        const options = { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').innerText = now.toLocaleDateString('en-US', options);
+    }
+    setDate();
+
+    async function loadData() {
+        try {
+            const v = new Date().getTime();
+            
+            const [resP, resH] = await Promise.all([
+                fetch(`plantas.json?v=${v}`), 
+                fetch(`home.json?v=${v}`)
+            ]);
+
+            plantDB = await resP.json();
+            suggestionsDB = await resH.json();
+
+            let vendors = [...new Set(plantDB.map(i => i.company))].filter(Boolean).sort();
+            
+            const matsudas = vendors.filter(v => v.toUpperCase().startsWith("MATS") || v.toUpperCase().startsWith("MAT"));
+            const knus = vendors.filter(v => v.toUpperCase().startsWith("KNU"));
+            const lastPrefixes = ["BEL", "FRAN", "NORM"];
+            const lasts = vendors.filter(v => 
+                lastPrefixes.some(pref => v.toUpperCase().startsWith(pref))
+            );
+            const middle = vendors.filter(v => 
+                !v.toUpperCase().startsWith("MATS") && !v.toUpperCase().startsWith("MAT") &&
+                !v.toUpperCase().startsWith("KNU") &&
+                !lastPrefixes.some(pref => v.toUpperCase().startsWith(pref))
+            );
+
+            const finalVendorOrder = [...matsudas, ...knus, ...middle, ...lasts];
+
+            vendorFilter.innerHTML = '<option value="any">Any Vendor</option>' + 
+                finalVendorOrder.map(v => `<option value="${v}">${v}</option>`).join('');
+            
+            console.log("Database and Vendors updated");
+        } catch (e) { 
+            console.error("Error loading files", e);
+            resultsBody.innerHTML = `<div style="padding:20px; text-align:center; color:var(--text-dim);">Error loading inventory. Please check GitHub files.</div>`;
+        }
+    }
+
+    function procesarAbreviacion(texto) {
+        let soloNombre = texto.split('(')[0].trim();
+        const comillasMatch = soloNombre.match(/'(.*?)'/);
+        let primera = soloNombre.split(' ')[0].substring(0, 3);
+        if (comillasMatch) {
+            let dentro = comillasMatch[1].trim().split(/\s+/);
+            if (dentro.length >= 2) return `${primera} ${dentro[0][0]} ${dentro[dentro.length-1].substring(0,4)}`.toLowerCase();
+            return `${primera} ${dentro[0].substring(0,4)}`.toLowerCase();
+        }
+        let palabras = soloNombre.split(/\s+/).filter(p => !formasAIgnorar.includes(p.toUpperCase()));
+        if (palabras.length > 1) return `${primera} ${palabras[palabras.length-1].substring(0,4)}`.toLowerCase();
+        return soloNombre.substring(0, 8).toLowerCase();
+    }
+
+    plantInput.addEventListener('input', function() {
+        let rawVal = this.value.toUpperCase();
+        let cleanVal = rawVal.replace(/[^A-Z0-9\s]/g, "");
+        if (this.value.toUpperCase() !== cleanVal) { this.value = cleanVal; }
+
+        let val = cleanVal.trim();
+
+        if (val !== procesarAbreviacion(lastSelectedPlantName).toUpperCase()) {
+            lastSelectedPlantName = "";
+        }
+
+        if (val.length >= 2) {
+            performSearch();
+            const queryWords = val.split(/\s+/).filter(w => w.length > 0);
+            const matches = suggestionsDB.filter(s => {
+                const name = (s.display_name || "").toUpperCase();
+                const skuInfo = (s.variantes || "").toUpperCase();
+                return queryWords.every(word => {
+                    if (/^\d{4,}$/.test(word)) return skuInfo.includes(`(${word})`);
+                    return name.includes(word) || skuInfo.includes(word);
+                });
+            });
+
+            if (matches.length > 0) {
+                sugBox.innerHTML = matches.slice(0, 100).map((m) => {
+                    return `<div class="suggestion-item" data-name="${m.display_name.replace(/"/g, '&quot;')}" onclick="applySelection(this.getAttribute('data-name'))">
+                        ${m.display_name}
+                    </div>`;
+                }).join('');
+                sugBox.style.display = "block";
+            } else { sugBox.style.display = "none"; }
+        } else { 
+            sugBox.style.display = "none"; 
+            if(val === "") {
+                detailCard.style.display = "none";
+                preview.innerText = "Waiting for selection...";
+                preview.style.color = "var(--text-dim)";
+                lastSelectedPlantName = "";
+            }
+            performSearch(); 
+        }
+    });
+
+    function applySelection(nombreLimpio) {
+        lastSelectedPlantName = nombreLimpio; 
+        preview.innerText = nombreLimpio;
+        preview.style.color = "var(--neon-green)";
+        
+        const plantaInfo = suggestionsDB.find(s => s.display_name === nombreLimpio);
+        if (plantaInfo && plantaInfo.variantes) {
+            const listaVariantes = plantaInfo.variantes.split('|').map(v => `<div class="detail-item">${v.trim()}</div>`).join('');
+            detailCard.innerHTML = `<div class="detail-title">Plant Specs: ${nombreLimpio}</div>${listaVariantes}`;
+            detailCard.style.display = "block";
+        }
+
+        const abreviacion = procesarAbreviacion(nombreLimpio);
+        plantInput.value = abreviacion;
+        sugBox.style.display = "none";
+        performSearch();
+    }
+
+    function handleComboChange() {
+        plantInput.value = ""; 
+        detailCard.style.display = "none";
+        preview.innerText = "Browsing Catalog...";
+        preview.style.color = "var(--text-dim)";
+        lastSelectedPlantName = "";
+        performSearch();
+    }
+
+    function performSearch() {
+        const q = plantInput.value.toUpperCase().trim();
+        const v = vendorFilter.value;
+        const s = sizeFilter.value;
+        
+        if (!q && v === "any" && s === "any") { 
+            resultsBody.innerHTML = ""; 
+            resultsHeader.style.display = "none"; 
+            return; 
+        }
+
+        resultsHeader.style.display = "grid";
+        
+        let queryWords = [];
+        let useFallbackMatching = false;
+        let fallbackWords = [];
+
+        if (lastSelectedPlantName && q === procesarAbreviacion(lastSelectedPlantName).toUpperCase()) {
+            useFallbackMatching = true;
+            fallbackWords = lastSelectedPlantName.toUpperCase().split('Lines')[0].replace(/[^A-Z0-9\s]/g, "").split(/\s+/).filter(Boolean);
+        }
+        
+        queryWords = q.split(/\s+/).filter(Boolean);
+        
+        // 1. Filtrado de datos inicial
+        let filtered = plantDB.filter(item => {
+            const itemName = (item.name || "").toUpperCase();
+            const itemSize = (item.size || "").toUpperCase();
+            
+            let mN = false;
+            if (q === "") {
+                mN = true;
+            } else {
+                mN = queryWords.every(w => itemName.includes(w));
+                if (!mN && useFallbackMatching) {
+                    mN = fallbackWords.every(w => itemName.includes(w));
+                }
+            }
+
+            const mV = v === "any" || item.company === v;
+            let mS = (s === "any") ? true : (s === "01" ? (itemSize.includes("01") || itemSize.includes("2Q")) : itemSize.includes(s.toUpperCase()));
+            return mN && mV && mS;
+        });
+
+        // 2. ORDENAR LOS RESULTADOS SEGÚN LAS REGLAS DEL PROVEEDOR
+        filtered.sort((a, b) => {
+            const compA = (a.company || "").toUpperCase();
+            const compB = (b.company || "").toUpperCase();
+            
+            function getOrderScore(comp) {
+                if (comp.startsWith("MAT")) return 1;
+                if (comp.startsWith("KNU")) return 2;
+                if (comp.startsWith("FRAN") || comp.startsWith("BEL") || comp.startsWith("NORM")) return 4;
+                return 3; // El resto de proveedores en medio
+            }
+            
+            const scoreA = getOrderScore(compA);
+            const scoreB = getOrderScore(compB);
+            
+            if (scoreA !== scoreB) {
+                return scoreA - scoreB;
+            }
+            // Si están en la misma categoría, ordenar alfabéticamente por proveedor
+            return compA.localeCompare(compB);
+        });
+
+        if(filtered.length > 0) {
+            let htmlFinal = "";
+
+            if (v !== "any") {
+                const grupos = {};
+
+                filtered.forEach(item => {
+                    const nombrePlanta = (item.name || "").trim();
+                    let grupoClave = "VARIOS";
+
+                    if (nombrePlanta !== "") {
+                        const words = nombrePlanta.split(" ");
+                        grupoClave = words[0].toUpperCase().replace(/[^A-Z0-9]/g, ""); 
+                    }
+
+                    if (!grupos[grupoClave]) {
+                        grupos[grupoClave] = [];
+                    }
+                    grupos[grupoClave].push(item);
+                });
+
+                Object.keys(grupos).sort().forEach(grupo => {
+                    htmlFinal += `
+                    <div class="group-category-header">
+                        <span class="group-line-left"></span>
+                        <span>🧬 ${grupo}</span>
+                        <span class="group-line-right"></span>
+                    </div>`;
+
+                    grupos[grupo].forEach(item => {
+                        htmlFinal += renderizarFilaOriginal(item);
+                    });
+                });
+
+            } else {
+                filtered.slice(0, 150).forEach(item => {
+                    htmlFinal += renderizarFilaOriginal(item);
+                });
+            }
+
+            resultsBody.innerHTML = htmlFinal;
+        } else {
+            resultsBody.innerHTML = `<div style="padding:20px; text-align:center; color:var(--text-dim);">No matching stock found.</div>`;
+        }
+    }
+
+    function renderizarFilaOriginal(i) {
+        const safetyCompany = i.company.replace(/"/g, '&quot;');
+        const safetyName = i.name.replace(/"/g, '&quot;');
+        
+        const onclickCompany = safetyCompany.replace(/'/g, "\\'");
+        const onclickName = safetyName.replace(/'/g, "\\'");
+        
+        const rawSizes = i.size.split(',');
+        
+        let sizeHTML = '<div class="size-container">';
+        let actionHTML = '<div class="action-container">';
+        
+        rawSizes.forEach(rawSize => {
+            const trimmed = rawSize.trim();
+            if(!trimmed) return;
+            
+            const cleanSizeMatch = trimmed.match(/^([^(]+)/);
+            const cleanSize = cleanSizeMatch ? cleanSizeMatch[1].trim() : trimmed;
+            
+            const detailsMatch = trimmed.match(/\(([^)]+)\)/);
+            const details = detailsMatch ? `(${detailsMatch[1]})` : '';
+
+            const onclickSize = cleanSize.replace(/"/g, '&quot;').replace(/'/g, "\\'");
+
+            sizeHTML += `
+                <div>
+                    <span class="row-size-clean">${cleanSize}</span>
+                    <span class="row-size-details">${details}</span>
+                </div>`;
+                
+            actionHTML += `
+                <button class="btn-action" onclick="addToOrder('${onclickCompany}', '${onclickName}', '${onclickSize}')">Add</button>
+            `;
+        });
+        
+        sizeHTML += '</div>';
+        actionHTML += '</div>';
+        
+        return `
+        <div class="row">
+            <div>${i.company}</div>
+            <div>${i.name}</div>
+            <div>${sizeHTML}</div>
+            <div>${actionHTML}</div>
+        </div>`;
+    }
+
+    function addToOrder(company, name, cleanSize) {
+        orderPanel.style.display = "block";
+
+        if (!currentOrder[company]) {
+            currentOrder[company] = [];
+        }
+
+        currentOrder[company].push({
+            name: name,
+            size: cleanSize.trim().toUpperCase()
+        });
+
+        preview.innerText = `ADDED TO ORDER: ${name} (${cleanSize.trim().toUpperCase()}) ✅`;
+        preview.style.color = "var(--neon-green)";
+
+        updateOrderPreview();
+    }
+
+    function removeFromOrder(company, index) {
+        currentOrder[company].splice(index, 1);
+
+        if (currentOrder[company].length === 0) {
+            delete currentOrder[company];
+        }
+
+        updateOrderPreview();
+    }
+
+    function updateOrderPreview() {
+        const vendorsInOrder = Object.keys(currentOrder);
+
+        if (vendorsInOrder.length === 0) {
+            orderPreview.innerHTML = "No items added to order yet.";
+            orderPanel.style.display = "none";
+            return;
+        }
+
+        let htmlOutput = "";
+        
+        vendorsInOrder.forEach(vendor => {
+            htmlOutput += `<div style="color: var(--neon-blue); margin-bottom: 3px; font-weight: bold; font-size: 0.7rem;">VENDOR: ${vendor}</div>`;
+            
+            currentOrder[vendor].forEach((plant, index) => {
+                const safetyVendor = vendor.replace(/"/g, '&quot;').replace(/'/g, "\\'");
+                htmlOutput += `
+                <div style="display: flex; justify-content: space-between; align-items: center; padding: 2px 0; border-bottom: 1px dashed #222;">
+                    <span>&nbsp;&nbsp;-> ${plant.name} <span style="color: var(--neon-green)">[${plant.size}]</span></span>
+                    <button 
+                        class="btn-delete-item"
+                        onclick="removeFromOrder('${safetyVendor}', ${index})">
+                        X
+                    </button>
+                </div>`;
+            });
+            htmlOutput += `<div style="color: #222; margin: 3px 0;">-------------------------------------------</div>`;
+        });
+
+        orderPreview.innerHTML = htmlOutput;
+    }
+
+    function downloadOrderFile() {
+        const vendorsInOrder = Object.keys(currentOrder);
+
+        if (vendorsInOrder.length === 0) {
+            alert("Your order list is empty. Add items first!");
+            return;
+        }
+
+        let textString = "";
+        
+        vendorsInOrder.forEach(vendor => {
+            textString += `COMPANY / VENDOR: ${vendor}\n`;
+            textString += `===========================================\n`;
+            currentOrder[vendor].forEach((plant, index) => {
+                textString += `${index + 1}. ${plant.name} - SIZE: ${plant.size}\n`;
+            });
+            textString += `\n\n`; 
+        });
+
+        const blob = new Blob([textString], { type: 'text/plain;charset=utf-8' });
+        const element = document.createElement('a');
+        element.href = URL.createObjectURL(blob);
+        element.download = `Plant_Order_${new Date().toISOString().slice(0,10)}.txt`;
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+    }
+
+    function resetSearch() {
+        plantInput.value = ""; 
+        vendorFilter.value = "any"; 
+        sizeFilter.value = "any";
+        preview.innerText = "Waiting for selection...";
+        preview.style.color = "var(--text-dim)";
+        detailCard.style.display = "none";
+        resultsBody.innerHTML = "";
+        resultsHeader.style.display = "none";
+        lastSelectedPlantName = "";
+        plantInput.focus();
+    }
+
+    document.addEventListener('click', (e) => { if (e.target !== plantInput) sugBox.style.display = "none"; });
+    document.addEventListener('keydown', (e) => { if (e.key === "Escape") sugBox.style.display = "none"; });
+
+    loadData();
+</script>
+</body>
+</html>
