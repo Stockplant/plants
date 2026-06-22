@@ -38940,6 +38940,2586 @@
     "size": "05G, 15G"
   },
   {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Yucca 'Color Guard'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Yucca 'Gold Swordt|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Yucca pendula|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Calamondin|Franz Farm",
+    "size": "05G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Citron Buddha's Hand|Franz Farm",
+    "size": "05G (STD), 06G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Grpfrt RioRed|Franz Farm",
+    "size": "24G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Grpfrt StarRuby|Franz Farm",
+    "size": "24G (STD), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Kumquat Nagami|Franz Farm",
+    "size": "05G (STD), 15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lemon Eureka|Franz Farm",
+    "size": "05G (STD), 24G (STD), 36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lemon Imp Meyer|Franz Farm",
+    "size": "05G (DWF), 15G (DWF), 05G (ESP), 07G (ESP), 05G (SD), 15G (SD), 24G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lemon Lisbon|Franz Farm",
+    "size": "02G (STD), 05G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lemon New Ze Lemonade|Franz Farm",
+    "size": "02G (SD), 05G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Bearss|Franz Farm",
+    "size": "05G (DWF), 80G (DWF), 24G (ESP), 36G (SD), 48G (SD), 02G (STD), 05G (STD), 15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Finger Lime|Franz Farm",
+    "size": "05G (STD), 15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Finger Red|Franz Farm",
+    "size": "05G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Kieffer|Franz Farm",
+    "size": "02G (SD), 05G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Mex Thornless|Franz Farm",
+    "size": "15G (SD), 02G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Lime Mexican (Key)|Franz Farm",
+    "size": "05G (SD), 05G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Mandarin Clem|Franz Farm",
+    "size": "36G (SD), 48G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Mandarin Owari|Franz Farm",
+    "size": "05G (DWF), 07G (ESP), 36G (SD), 48G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Mandarin Page|Franz Farm",
+    "size": "24G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Mandarin Tango|Franz Farm",
+    "size": "24G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Orange CaraCara Pink|Franz Farm",
+    "size": "05G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-orange Mid Valencia|Franz Farm",
+    "size": "36G (SD), 48G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Orange Mid Valencia|Franz Farm",
+    "size": "05G (STD), 36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-orange|Franz Farm",
+    "size": "100G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Orange Olinda Valencia|Franz Farm",
+    "size": "105G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Orange Seville|Franz Farm",
+    "size": "05G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-orange Washington|Franz Farm",
+    "size": "05G (ESP), 07G (ESP), 36G (SD), 48G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Orange Washington|Franz Farm",
+    "size": "05G (STD), 15G (STD), 24G (STD), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Pomelo Tahitian|Franz Farm",
+    "size": "02G (SD), 05G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Tangelo Minneola|Franz Farm",
+    "size": "05G (SD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cit-Tangerine Dancy|Franz Farm",
+    "size": "05G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Blueberry 'Pink' Lemonade'|Franz Farm",
+    "size": "03G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Boug. 'Barbara Karst'|Franz Farm",
+    "size": "05G (ESP), 05G (PATIO), 05G (SHB), 05G (STK)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Boug. 'Bengal Orange'|Franz Farm",
+    "size": "05G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Kramer's Sup'|Franz Farm",
+    "size": "05G (ESP), 05G (PATIO)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Tom Knudsen'|Franz Farm",
+    "size": "05G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia s. 'Chansonette'ESP|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia s. 'White Dove'|Franz Farm",
+    "size": "05G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Clytostoma cal.|Franz Farm",
+    "size": "05G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit|Franz Farm",
+    "size": "41G, 61G, 31G, 03G, 04G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Apple|Franz Farm",
+    "size": "07G (ESP), 15G, 15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Apple'|Franz Farm",
+    "size": "07G (ESP)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gardenia j. 'Veitchii'|Franz Farm",
+    "size": "05G (ESP), 01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gem'ESP|Franz Farm",
+    "size": "05G, 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Photinia fraseri|Franz Farm",
+    "size": "15G (ESP), 05G (MUL), 15G (MUL), 24G (MUL), 24G (STD), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Podocarpus gracilior|Franz Farm",
+    "size": "15G (ESP), 24G (COL), 36G (COL), 48G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Trach. jasminoides|Franz Farm",
+    "size": "05G (ESP), 15G (ESP), 01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Avocado Hass|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Avocado Wurtz Little Cado|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Asian Pear|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Salad|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit ' Pear|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cherry|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit salad|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pear|Franz Farm",
+    "size": "15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit 'All in One Almond'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple 'Dorsett Gold'|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple 'Gala'|Franz Farm",
+    "size": "07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple 'Granny Smith'|Franz Farm",
+    "size": "07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple 'Honeycrisp'|Franz Farm",
+    "size": "05G, 07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Anna EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Dorsett EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Einshemer EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Fuji EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple GoldenSentinal|Franz Farm",
+    "size": "07G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple North Pole|Franz Farm",
+    "size": "07G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Red Delicious|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apple Yellow Delicious|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apricot Blenheim|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apricot Gold Kist|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apricot Harcot|Franz Farm",
+    "size": "05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apricot Katy|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Apricot Tilton|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Blueberry 'Jelly Bean'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Blueberry 'Take the Cake|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Cherry 'Bing'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Cherry Lapins|Franz Farm",
+    "size": "07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Chcrry Royal Rainer|Franz Farm",
+    "size": "07G, 115G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Cherry Stella|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Dwarf Nectarine BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Fig 'Black Mission'|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Fig 'Brown Turkey'|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Grape 'Flame Seedless'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Grape'Flame' T-Bar|Franz Farm",
+    "size": "55G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Grape'Thompson' T-bar|Franz Farm",
+    "size": "55G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Nectarine Arctic Rose W|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Nectarine Fantasia|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Nectarine Goldmine|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Nectarine Panamint|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Nectarine Snow Queen|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Babcock White|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Desert Gold|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Early FloweringRed|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Elberta|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Frost 'TM'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Honey Babe BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach O'Henry|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Pix Zee BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Red Baron|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach Redhaven|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Peach White Lady|Franz Farm",
+    "size": "05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Bartlett|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Bosc|Franz Farm",
+    "size": "07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Comice|Franz Farm",
+    "size": "01G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Comice EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Conference|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Keiffer|Franz Farm",
+    "size": "07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Red Bartlett|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pear Shinseiki Asia|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Burgundy|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Elephant Heart|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Green Gage|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Methley|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Santa Rosa|Franz Farm",
+    "size": "05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Satsuma|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Plum Superior Hybrid|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pomegranate-Wonderful|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Grape Thompson Seedless Tower|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nectarine|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nectarine NectaZee BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nectarine Nectar Babe BARREL|Franz Farm",
+    "size": "44G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pear Luscious EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pear Summercrisp EZ Pick|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Walnut Chandler|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Aristida purpurea|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Calamagrostis 'Karl Foerster'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Carex divulsa|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Carex praegracilis|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Carex testacea|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Carex tumulicola|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Chondropetalum tectorum|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Festuca califomica|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Festuca mairii|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Festuca|Franz Farm",
+    "size": "00G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Festuca rubra|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helictotrichon s. 'Sapphire'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helictotrichon sempervirens|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juncus patens|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juncus patens 'Elk Blue'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Leymus c. 'Canyon Prince'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Liriope m. 'Gigantea'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Liriope m. 'Silvery Sunproof|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Liriope muscari|Franz Farm",
+    "size": "01G, 105G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lomandra 'Breeze'|Franz Farm",
+    "size": "15420G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lomandra 'Nyalla'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Miscanthus 'Morning Light'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Muhlenbergia 'Dubia'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Muhlenbergia 'White Cloud'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Muhlenbergia capillaris|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Muhlenbergia rigens|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ophiopogon japonicus|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ophiopogon japonicus 'Nigrens'|Franz Farm",
+    "size": "101G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pennisetum 'Fairy Tails'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pennisetum a. 'Hameln'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pennisetum spathiolatum|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sesleria 'Autumnalis'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sesleria 'Greenlees Select'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acacia redolens 'Low Boy'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arcto. 'Emerald Carpet'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arcto. 'Pacific Mist'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arcto. u. 'Point Reyes'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Baccharis p. 'Twin Peaks'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ceanothus g. 'Anchor Bay'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Coprosma p. 'Verde Vista'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cotoneaster d. 'Coral Beauty'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cotoneaster d. 'Lowfast'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hypericum calycinum|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus con. 'Blue Pacific'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus h. 'Bar Harbor'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus p. 'Nana'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus p. Nana' Stkd.|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus s. 'Buffalo'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Myoporum p. 'Pink|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Myoporum p. 'Putah Creek'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Trachelospermum asiaticum|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Vinca minor 'Bowles'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Chamaerops humilis|Franz Farm",
+    "size": "05G, 15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Trachycarpus fortunei|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Washingtonia robusta|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Silver Waves'|Franz Farm",
+    "size": "05G (PATIO)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dodonaea'Purpurea'PT|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Feijoa sellowiana|Franz Farm",
+    "size": "05G (PATIO), 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fruit Pomegranate-Parfianka|Franz Farm",
+    "size": "05G (PATIO)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gardenia j. 'August Beauty'|Franz Farm",
+    "size": "05G (PATIO)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Arbequina'|Franz Farm",
+    "size": "02G (PATIO), 02G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Arbosana'|Franz Farm",
+    "size": "02G (PATIO), 02G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Petite Olive'|Franz Farm",
+    "size": "02G (PATIO), 05G (PATIO), 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Mr. Lincoln'|Franz Farm",
+    "size": "36G, 05G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Achillea 'Moonshine'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Anigozanthos Big Red'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Anigozanthos 'Harmony'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Anigozanthos 'Pink'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Coreopsis v. 'Moonbeam'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Erigeron karvinskianus|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hem. 'Full and|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hem. Rosie Meyer' (Red)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hem. 'Stella De 'Oro' (Yellow)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hem. hybrid Orange (Evergreen)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hem. hybrid Yellow (Evergreen)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Heuchera m. 'Palace Purple'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hosta 'Patriot'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lantana New Gold'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lantana m. Lavender|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lantana white|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lavandula x. 'Grosso'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Penstemon 'Midnight'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Peony Duchesse de Nemours|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Peony Monsieur Jules Elie|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Peony Shirley Temple|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Perovskia atriplicifolia|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia 'Hot Lips'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia g. 'Furman Red'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia greggii Pink|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia greggii Red|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia l. 'Santa Barbara'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sisyrinchium bellum|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Tulbaghia v. 'Silver Lace'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Tulbaghia violacea green|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Verbena 'Tapien Blue' TM|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Verbena peruviana'Pink'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Verbena red|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Zephyranthes candida|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Drift - Red'|Franz Farm",
+    "size": "17877G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Groundcover Pink'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Groundcover Red'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Groundcover White'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Iceberg' (Burgundy)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Iceberg' (Pink)|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Iceberg' (White)|Franz Farm",
+    "size": "02G, 05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Knockout' Double Red|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosa 'Red Meidiland'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Abelia g. 'Edward Goucher'|Franz Farm",
+    "size": "01G, 05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Abelia g. Kaleidoscope'|Franz Farm",
+    "size": "01G, 02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agapanthus 'Ever White' TM|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agapanthus 'Peter Pan'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agapanthus 'Queen Anne'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agapanthus 'Storm Cloud'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agapanthus 'Tinkerbell'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arbutus u. 'Compactat|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arcto. d. 'Howard McMinn'|Franz Farm",
+    "size": "05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea 'Alaska'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea 'Brilliant'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea 'Carnival'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea George Tabor'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea 'Phoenicia'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea 'Southern Charm'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Azalea h. 'Gumpo Whitet|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Berberis t. 'Atropurpurea'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Berberis t. 'Concorde'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Berberis t. 'Crimson Pygmy'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Berberis t. 'Orange Rocket'|Franz Farm",
+    "size": "02G, 03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Berberis t. 'Rose Glow'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Blueberry 'Bless your Heart'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Boug. 'Elizabeth Angus'|Franz Farm",
+    "size": "05G (SHB)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buddleia 'Black Knight'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buddleia 'Butterfly Candyt|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buddleia 'Miss Molly'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxusj. 'Green Beauty'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxusj. 'Winter Gem'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxus japonica|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxus s. 'Suffruticosa'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Callistemon v. 'Little John'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Debutante'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Kramer's Supreme'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Marie Bracy'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia j. 'Spellbound'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia s. 'Chansonette'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia s. 'Cleopatra'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Camellia s. 'Setsugekka'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Caryopteris Sapphire Surf FE|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ceanothus 'Concha'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ceanothus Ray Hartman|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ceph. occ. 'Fiber Optics'FE|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Chaenomeles 'Texas Scarlett'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cistus hybridus|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cistus ladanifer / maculatus|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cistus x skanbergii|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Coleonema p. 'Sunset Gold'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Coleonema pulchrum|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dianella 'Little Rev'|Franz Farm",
+    "size": "17719G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dianella 'Tasred'|Franz Farm",
+    "size": "18737G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dietes bicolor|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dietes iridioides|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Elaeagnus 'Variegatat HEDGE|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Elaeagnus Olive Martini TM|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Escallonia 'Fradesii'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Euonymus f. 'Emerald Gaiety'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Euonymus j. 'Aureo-Marginatat|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Euonymus j. 'Green Spire'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Euonymus j. 'Microphylla'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Euonymus j. 'Silver Queen'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ficus nitida|Franz Farm",
+    "size": "15G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Forsythia 'Lynnwood Gold'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Forsythia Show Sugar Baby TM|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Forsythia Show off Starlet|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gardenia j. 'Radicans'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Grevillea l. 'Coastal Gem!|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helleborus Ice N Roses Nightin|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helleborus Ice N Roses Picotee|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helleborus Ice N Roses Rose|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helleborus IceNRoses Early Red|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Helleborus IceNRoses EarlyRose|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Heteromeles arbutifolia|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hibiscus r.s. Sensation|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hibiscus r.s.'Brilliantt|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hibiscus r.s.'Lipstick'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea arb Incrediball|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea mac. 'Wee Bit Giddy'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea mac. 'Wee Bit Grump'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea p Limelight Prime|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea p. Little Hottie FE|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hydrangea p. Little Lime Punch|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ilex c. 'Burfordii Nana'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ilex crenata 'Sky Pencil'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. Dwarf Red|Franz Farm",
+    "size": "05G (SHB)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Dwarf Pink'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Leucophyllum f. 'Green Cloud'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ligustrum 'Sunshine'|Franz Farm",
+    "size": "403G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ligustrumj. 'Texanum'|Franz Farm",
+    "size": "01G, 05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lomandra l. 'Platinum Beauty'|Franz Farm",
+    "size": "02G, 03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Loropetalum c.'Daybreak'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Loropetalum c. 'Ever Red'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Loropetalum c.'Rubrum'|Franz Farm",
+    "size": "01G, 05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Loropetalum chinensis (green)|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia 'Stellar|Franz Farm",
+    "size": "18411G, 02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Mahonia aquifolium|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Myrica californica|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Myrtus communis 'Compacta'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina 'Lemon|Franz Farm",
+    "size": "24749G, 01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina 'Moon Bay'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina d. 'Fire Power'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina d. 'Gulfstream'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina d. 'Harbour Dwarf|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nandina domestica|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nerium o. 'Little Red'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nerium o. 'Petite Pink'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nerium o. 'Pink'|Franz Farm",
+    "size": "15G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nerium o. Red'|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nerium o. 'Sister Agnes'|Franz Farm",
+    "size": "01G (MUL), 05G (MUL), 15G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Osmanthus fragrans|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Phormium Jack Spratt|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Phormium Platt's Black|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pittosporum t. Variegata'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pittosporum t. 'Wheelers Dwarf|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Plumbago a. 'Royal Cape'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Prunus l. 'Schipkaensis'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Prunus laurocerasus|Franz Farm",
+    "size": "05G, 15G, 24G, 15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pyracantha k. 'Santa Cruz'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhamnus c. 'Eve Case'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhaphiolepis i. Clara'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhaphiolepis i. tJack Evans'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhaphiolepis i. 'Pink Lady'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhaphiolepis u. 'Minor'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendro Holden's Pink|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendron 'Anah Kruschke'|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendron Holden Pink Flare|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendron Holden's Fushia|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendron Holden's Peach|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhododendron Jean Marie de Mon|Franz Farm",
+    "size": "03G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rosmarinus 'Tuscan Blue'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia 'Bees Bliss'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Salvia chamaedryoides|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Senecio 'Skyscraper' TM|Franz Farm",
+    "size": "01G, 02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Spiraea Betulifolia nor'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Spiraea j. 'Anthony Watered|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Strelitzia reginae|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Teucrium azurium|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Teucrium chamaedrys|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Teucrium fruticans|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Viburnum tinus 'Spring Bouquet|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Westringia f. 'Wynyabbie Gem'|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Westringia fruticosa|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Xylosma c. 'Compacta'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Xylosma congestum|Franz Farm",
+    "size": "05G, 15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Agave parryi|Franz Farm",
+    "size": "01G, 05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dymondia margaretae|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hesperaloe p. 'Yellow'|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Phormium Tom Thumb|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sedum 'Autumn Joy'|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxusj. 'Green Beauty' Cone|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Buxus j. 'Winter Gem' Cone|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ligustrum 'Texanum'|Franz Farm",
+    "size": "03G, 05G (COL), 15G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Tier|Franz Farm",
+    "size": "05G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Loropetalum c. 'Rubrum'|Franz Farm",
+    "size": "05G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. 'Atropurpurea' Low Br.|Franz Farm",
+    "size": "07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. 'Bloodgood'|Franz Farm",
+    "size": "05G, 07G, 10G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cupressus s. 'Totem'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Dodonaea v. 'Purpurea'|Franz Farm",
+    "size": "07G (COL), 15G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Elaeocarpus decipiens|Franz Farm",
+    "size": "05G (COL), 15G (COL), 24G (COL), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fraxinus 'Autumn Purple'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Fraxinus o. 'Raywood'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Geijera parviflora|Franz Farm",
+    "size": "01G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ginkgo b. 'Autumn Gold'|Franz Farm",
+    "size": "48G, 60G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ginkgo b. 'Fairmount'|Franz Farm",
+    "size": "36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. 'Sango Kaku'|Franz Farm",
+    "size": "05G, 07G, 10G, 15G, 24G, 36G, 48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. 'Sango Kaku' a. Wilsonii'|Franz Farm",
+    "size": "15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. dis. 'Seiryu'|Franz Farm",
+    "size": "05G, 07G, 15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer p. dis. 'Seiryu' 'Blue Point'|Franz Farm",
+    "size": "07G (COL), 15G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer palmatum Low Branch|Franz Farm",
+    "size": "07G, 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer palmatum Low Branch 'Skyrocket'|Franz Farm",
+    "size": "15G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer palmatum|Franz Farm",
+    "size": "36G (MUL), 48G (MUL), 60G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer palmatum 'Wichita Blue'|Franz Farm",
+    "size": "15G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gleditsia 'Shademaster'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer r. 'Armstrong'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer r. 'Bowhall'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer r. 'October Glory'|Franz Farm",
+    "size": "15G, 24G, 36G, 48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Acer r. 'Red Sunset'|Franz Farm",
+    "size": "15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Accr r. Redpointe'|Franz Farm",
+    "size": "15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Arbutus 'Marina'|Franz Farm",
+    "size": "05G (STD), 07G (STD), 15G (STD), 48G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Betula Pendula|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Betula n. Heritage'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Carpinus b. 'Fastigiata'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cedrus deodara|Franz Farm",
+    "size": "36G, 48G, 60G, 72G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Celtis occidentalis|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Celtis sinensis|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercidium 'Desert Museum'|Franz Farm",
+    "size": "15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercidium Desert Museum'|Franz Farm",
+    "size": "36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercidium Desert Museum'multi|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercis Flame Thrower|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercis Oklahoma Low Branch|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercis c. 'Oklahoma'|Franz Farm",
+    "size": "15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cercis canadensis|Franz Farm",
+    "size": "36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Chilopsis lin. Burgundy|Franz Farm",
+    "size": "15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Chitalpa t. 'Pink Dawn'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cinnamomum camphora|Franz Farm",
+    "size": "36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cotinus c. 'Purpureus'|Franz Farm",
+    "size": "05G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cupressocyparis leylandii|Franz Farm",
+    "size": "07G, 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Cupressus s. 'Glauca'|Franz Farm",
+    "size": "07G, 15G, 24G, 36G, 48G, 60G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Juniperus c. 'Spartan'|Franz Farm",
+    "size": "15G (COL), 24G (COL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Koelreuteria bipinmta|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Koelreuteria paniculata|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Catawba' (Purple)|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 24G (MUL), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Dynamite' Red|Franz Farm",
+    "size": "05G (MUL), 07G (MUL), 15G (MUL), 24G (MUL), 05G (STD), 07G (STD), 15G (STD), 24G (STD), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Muskogee' Lavender|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 24G (MUL), 48G (MUL), 05G (STD), 15G (STD), 24G (STD), 36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Natchez' White|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 24G (MUL), 36G (MUL), 48G (MUL), 05G (STD), 07G (STD), 15G (STD), 24G (STD), 36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Pink Velour' Pink|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 15G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Red Rocket' Red|Franz Farm",
+    "size": "05G (MUL), 05G (STD), 15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Tuscarora' Hot Pnk|Franz Farm",
+    "size": "05G (MUL), 07G (MUL), 15G (MUL), 24G (MUL), 36G (MUL), 48G (MUL), 60G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Tuscarora' Hot Pink|Franz Farm",
+    "size": "05G (STD), 07G (STD), 15G (STD), 24G (STD), 36G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Lag. 'Twilight' Purple|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 05G (STD), 07G (STD), 15G (STD), 24G (STD), 36G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Laurus n. 'Saratoga'|Franz Farm",
+    "size": "15G (MUL), 24G (MUL), 15G (STD), 24G (STD), 36G (STD), 48G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Laurus nobilis|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 24G (MUL), 36G (MUL), 01G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia g. 'Little Gem' Low B|Franz Farm",
+    "size": "24G, 36G, 48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia g. 'Magnificent!|Franz Farm",
+    "size": "24G, 36G, 48G, 60G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Prunus s. 'Kwanzan'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia g. 'Samuel Sommer'|Franz Farm",
+    "size": "36G, 48G, 60G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Prunus s. 'Snow Fountains'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia g. 'St. Mary'|Franz Farm",
+    "size": "15G (STD), 24G (STD), 36G (STD), 48G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia grandiflora|Franz Farm",
+    "size": "36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia s. 'Alexandrina'|Franz Farm",
+    "size": "15G, 24G, 36G, 48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Magnolia soulangiana|Franz Farm",
+    "size": "05G, 07G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Nyssa sylvatica|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Ascolana'|Franz Farm",
+    "size": "02G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Cailletier'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Cortina'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Frantz Fruitless'|Franz Farm",
+    "size": "60G (MUL), 15G (STD), 24G (STD), 36G (STD), 48G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Magnificent'|Franz Farm",
+    "size": "05G (MUL), 24G (MUL), 36G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Manzanillo' multi(Fruit)|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Mission' multi(Fruiting)|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Nocellara DelBelicet|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Oblongat multi(Fruit)|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Picual'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea 'Wilsoni'|Franz Farm",
+    "size": "05G (MUL), 15G (MUL), 24G (MUL), 36G (MUL), 48G (MUL), 15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Olea Oblonga|Franz Farm",
+    "size": "01G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pinus canariensis|Franz Farm",
+    "size": "05G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pinus eldarica|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pinus thunbergii|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pistacia chinensis|Franz Farm",
+    "size": "05G, 15G, 24G, 36G, 48G, 72G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Platanus a. 'Bloodgood'|Franz Farm",
+    "size": "15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Platanus a. 'Columbia'|Franz Farm",
+    "size": "24G, 48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Platanus racemosa|Franz Farm",
+    "size": "15G, 24G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Podocarpus henkelii|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Podocarpus m. 'Maki'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Podocarpus macrophyllus|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Prunus x.subhirtella 'Pendula'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pyrus c. 'Bradford'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pyrus c. 'Chanticleer'|Franz Farm",
+    "size": "05G, 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pyrus c. 'New Bradford'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Pyrus c. 'Redspire'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus agrifolia natural|Franz Farm",
+    "size": "48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus agrifolia|Franz Farm",
+    "size": "15G (STD), 24G (STD), 36G (STD), 60G (STD), 72G (STD), 84G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus ilex|Franz Farm",
+    "size": "15G (STD), 48G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus lobata|Franz Farm",
+    "size": "15G (STD), 24G (STD), 48G (STD), 60G (STD), 72G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus rober x 'Regal Prince'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "robur 'Fastigiatat|Franz Farm",
+    "size": "15G (STD), 24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus rubra|Franz Farm",
+    "size": "24G (STD), 36G (STD), 48G (STD), 60G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus suber|Franz Farm",
+    "size": "60G (STD), 84G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus v. 'Cathedral'Std|Franz Farm",
+    "size": "48G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Quercus virginiana|Franz Farm",
+    "size": "15G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Rhus lancea|Franz Farm",
+    "size": "24G (STD)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Robinia 'Purple Robe'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Schinus molle|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sequoia s. 'Aptos Blue'|Franz Farm",
+    "size": "05G, 07G, 15G, 24G, 60G, 84G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Sequoia s. 'Soquel'|Franz Farm",
+    "size": "05G, 15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Tillia Cordata|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Tillia c. 'Greenspire'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ulmus p. Drake'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ulmus p. 'Emer Allee'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ulmus p. 'Frontier'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ulmus parvifolia|Franz Farm",
+    "size": "15G, 424G, 36G, 60G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Vitex agnus-castus|Franz Farm",
+    "size": "05G (MUL), 15G (MUL)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Zelkova s. 'Green Vase'|Franz Farm",
+    "size": "15G, 24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Zelkova s. 'Village Green'|Franz Farm",
+    "size": "24G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Zelkova serrata|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Clytostoma callistegioides|Franz Farm",
+    "size": "05G (STK)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Ficus pumila/repens|Franz Farm",
+    "size": "01G (STK), 05G (STK)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Gelsemium semp. -|Franz Farm",
+    "size": "15G (STK)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Hedera helix 'Eva'|Franz Farm",
+    "size": "02G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": ",Hedera helix Gold Child'|Franz Farm",
+    "size": "02G, 36G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Trach. jasminoides -|Franz Farm",
+    "size": "01G (STK), 05G (STK), 15G (STK)"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Wisteria 'Cooke's Purple'|Franz Farm",
+    "size": "15G"
+  },
+  {
+    "company": "Franz  6-22_PDF_XLS",
+    "name": "Wisteria sinensis|Franz Farm",
+    "size": "15G"
+  },
+  {
     "company": "NORMAN_S  6-22_XLS_XLS",
     "name": "ABELIA g. 'Edward Goucher'",
     "size": "15G(BSH-75-Lndscp)"
