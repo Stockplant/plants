@@ -13250,4014 +13250,3964 @@
     "size": "15G STD(115-not-ready (7-8'))"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Acer Buergerianum",
-    "size": "30G(35)"
+    "size": "30G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Acer Rubrum October Glory",
-    "size": "30G(177), 95G(13)"
+    "size": "95G(32), 30G(159)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Acer Rubrum Red Sunset R",
-    "size": "30G(60)"
+    "size": "30G(35), 95G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Acer Rubrum Armstrong",
-    "size": "15G(82)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Acer Tataricum Hot Wings Pp15023",
-    "size": "20G(20-PastBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Arbutus Marina Mt",
-    "size": "30G(8)"
+    "size": "30G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Arbutus Marina Tf",
-    "size": "30G(19), 15G(4), 95G(21)"
+    "size": "95G(32)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
+    "name": "Arctostaphylos Densiflora Howard Mcminn",
+    "size": "15G(17)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Callistemon Vim Slim Pp24444 Cl",
-    "size": "15G(38)"
+    "size": "15G(35)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Carpinus Betulus Fastigiata",
     "size": "15G(237), 30G(74)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Cedrus Deodara",
-    "size": "95G(19), 30G(116)"
+    "size": "30G(103), 95G(15)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Celtis Sinensis",
-    "size": "15G(97)"
+    "size": "15G(95)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Cercis Can Forest Pansy",
     "size": "30G(33)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Cupressus Semp Glauca",
-    "size": "30G(179)"
+    "size": "95G(2), 30G(169)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Fraxinus Oxycarpa Raywood",
     "size": "15G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Ginkgo Biloba Autumn Gold",
-    "size": "15G(51)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Indica Cherokee Red Tf",
     "size": "30G(63)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Indica Cherokee Red Mt",
     "size": "30G(22-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Dynamite R Tf",
-    "size": "15G(39), 30G(207-BudBloom)"
+    "size": "30G(207-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Muskogee Tf",
-    "size": "30G(70-BudBloom), 15G(162-Buds), 95G(48-BudBloom)"
+    "size": "15G(161-Buds), 30G(64-BudBloom), 95G(48-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Natchez Tf",
-    "size": "95G(21-PastBloom), 30G(59-BudBloom)"
+    "size": "95G(30-PastBloom), 15G(128), 30G(47-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Tuscarora Tf",
-    "size": "95G(47-BudBloom), 30G(188-BudBloom), 15G(2)"
+    "size": "15G(239), 95G(47-BudBloom), 30G(126-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Tuscarora Mt",
     "size": "30G(1-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Lag Tuscarora",
-    "size": "15G(9)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Lag Tuskegee Mt",
-    "size": "15G(12)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Lag Zuni Tf",
-    "size": "15G(140-BudBloom), 30G(94-Bud/bloom, Buds)"
+    "size": "30G(85-Bud/bloom, Past Bloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Magnolia G Brackens Brown Beauty Fg",
-    "size": "30G(24), 15G(26)"
+    "size": "30G(19), 15G(19)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Magnolia G Little Gem Ftg",
-    "size": "15G(23)"
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
+    "name": "Magnolia G Little Gem",
+    "size": "30G(9)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Myrica Californica",
     "size": "15G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Nandina D Compacta",
-    "size": "15G(15)"
+    "size": "15G(12)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Olea Europaea Dwarf",
     "size": "30G(73)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Olea Europaea Wilsonii Mt",
-    "size": "30G(14), 95G(24)"
+    "size": "30G(14), 95G(17)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Phormium Amazing Red",
-    "size": "15G(87)"
+    "size": "15G(76)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Pinus Eldarica",
-    "size": "15G(20)"
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
+    "name": "Phormium Duet",
+    "size": "15G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
+    "name": "Phormium Rainbow Queen",
+    "size": "15G(41)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Pistacia Chinensis",
-    "size": "95G(51)"
+    "size": "95G(53)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Platanus Acerifolia Bloodgood",
-    "size": "30G(68), 95G(19)"
+    "size": "15G(128), 30G(48)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Platanus Acerifolia Columbia",
-    "size": "30G(53), 15G(55)"
+    "size": "95G(19), 15G(28), 30G(44)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Platanus Racemosa",
-    "size": "30G(98), 15G(21)"
+    "size": "30G(88)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Podocarpus Gracilior Col",
-    "size": "15G(16), 95G(26), 30G(25)"
+    "size": "15G(12), 95G(23), 30G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Prunus Cerasifera Krauter Vesuvius",
-    "size": "30G(16)"
+    "size": "30G(43)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
+    "name": "Prunus Caroliniana Cl",
+    "size": "15G(33)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Prunus Caroliniana Compacta Cl",
-    "size": "15G(38), 30G(69)"
+    "size": "15G(3), 30G(69)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Prunus Serrulata Kwanzan",
-    "size": "30G(22), 15G(40)"
+    "size": "15G(40), 30G(22)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Pyrus Calleryana Aristocrat",
-    "size": "15G(64)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Pyrus Calleryana Cleveland Select",
-    "size": "15G(62)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Pyrus Calleryana Redspire",
-    "size": "15G(108)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Pyrus Kawakamii",
-    "size": "30G(16)"
+    "size": "30G(15)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Quercus Lobata",
-    "size": "95G(52)"
+    "size": "95G(18)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Quercus Rubra",
-    "size": "30G(82)"
+    "size": "30G(80)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Sequoia Sempervirens Aptos Blue",
-    "size": "15G(131), 30G(23)"
+    "size": "30G(23), 15G(129)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Taxus Media Hicksii",
     "size": "10G(21)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
+    "company": "EVERDE 8-03_XLS (Bradshaw)",
     "name": "Ulmus Parvifolia True Green",
-    "size": "30G(34), 95G(11)"
+    "size": "30G(3), 95G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Bradshaw)",
-    "name": "Ulmus Parvifolia Drake",
-    "size": "30G(16)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Bloodgood",
-    "size": "30G(305)"
+    "size": "30G(298)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Bloodgood Sq",
-    "size": "15G(652-Specials)"
+    "size": "15G(677-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Crimson Queen",
-    "size": "30G(117), 10G(706)"
+    "size": "10G(702), 30G(117)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Crimson Queen Sq",
-    "size": "15G(66), 07G(365)"
+    "size": "07G(349), 15G(66)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Garnet Sq",
-    "size": "07G(202)"
+    "size": "07G(192)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Red Dragon",
-    "size": "10G(176-Specials)"
+    "size": "10G(174-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Red Dragon Sq",
-    "size": "07G(176)"
+    "size": "07G(154)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Red Select",
     "size": "10G(8)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Red Select Sq",
     "size": "15G(171)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Tamukeyama",
-    "size": "30G(280-Specials), 10G(20)"
+    "size": "30G(279-Specials), 10G(16)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Tamukeyama Sq",
-    "size": "15G(75), 07G(72-Emerging)"
+    "size": "15G(73), 07G(54-Emerging)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Dis Viridis",
-    "size": "30G(176-Specials), 10G(549-Specials)"
+    "size": "10G(540-Specials), 30G(176-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Emperor I R",
-    "size": "30G(282), 10G(495-Specials), 20G(163-Specials), 15G(374-Specials)"
+    "size": "10G(496-Specials), 30G(489-Specials), 20G(163-Specials), 15G(342-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Emperor I Sq",
-    "size": "07G(99)"
+    "size": "07G(87)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acer Palmatum Mt",
-    "size": "20G(42)"
+    "size": "20G(29)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Achillea Mil T F Pomegranate Pp20763",
-    "size": "01G(155-BudBloom)"
+    "size": "01G(95-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Acorus Gramineus Ogon",
     "size": "01G(55-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Agastache Rupestris",
-    "size": "01G(30-FullBloom)"
+    "size": "01G(12-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Allium Nutans Millienium",
-    "size": "01G(1100-Specials)"
+    "size": "01G(983-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Aquilegia Early Bird Purple & White",
+    "size": "01G(143-BudBloom)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Artemisia Silver Mound",
-    "size": "01G(94-FullBloom)"
+    "size": "01G(89-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Berberis T Bonanza Gold",
-    "size": "01G(34)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Berberis T Cabernet Fe",
-    "size": "008 INCH(13)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Berberis T Helmond Pillar",
-    "size": "02G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Berberis T Orange Rocket Pp18411",
-    "size": "008 INCH(1767-Specials)"
+    "size": "01G(324-FullBloom), 008 INCH(1779-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Berberis T Orange Rocket Pp18411 Sun",
-    "size": "008 INCH(1658-Specials)"
+    "size": "008 INCH(1593-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Berberis T Rose Glow",
-    "size": "01G(51)"
+    "size": "01G(185-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Bouteloua Blond Ambtn P22048",
-    "size": "01G(3247-BudBloom)"
+    "size": "01G(3327-BudBloomFullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Brunnera Macrophylla Jack Frost",
-    "size": "01G(8-FullBloom)"
+    "size": "01G(5-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Babylon Beauty Ppaf Betbox",
-    "size": "03G(53)"
+    "size": "03G(53-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Gem",
-    "size": "02G(3464-Specials), 05G(338), 01G(1797)"
+    "size": "02G(3464-Specials), 05G(281), 01G(1773)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Mountain",
-    "size": "01G(4455-Specials), 02G(742-Specials)"
+    "size": "02G(692-Specials), 01G(4407-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Mountain Cn",
-    "size": "07G(245), 15G(79), 10G(100), 05G(1907-Specials)"
+    "size": "15G(54), 05G(1838-Specials), 10G(100), 07G(223)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Mountain Sq",
-    "size": "05G(1418-Specials), 07G(311)"
+    "size": "07G(311), 05G(1365-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Velvet",
-    "size": "01G(3806-Specials), 02G(1043-Specials)"
+    "size": "02G(1043-Specials), 01G(3806-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Buxus Green Velvet Globe",
+    "size": "10G(23)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Buxus Green Velvet Globe Sq",
+    "size": "07G(200)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Green Velvet Sq",
-    "size": "05G(130), 07G(320)"
+    "size": "07G(320), 05G(10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Buxus Heritage Ppaf Betbox",
+    "size": "01G(300)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Julia Jane",
     "size": "01G(475-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus M Japonica",
-    "size": "05G(144)"
+    "size": "05G(86)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus M Julia Jane",
-    "size": "02G(78)"
+    "size": "02G(58)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus M Julia Jane Sq",
-    "size": "05G(59), 07G(5)"
+    "size": "07G(177), 05G(253)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus M Little Missy Pp24703",
-    "size": "03G(474), 05G(527)"
+    "size": "03G(461)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Renaissance Ppaf Betbox",
-    "size": "03G(106)"
+    "size": "01G(95), 03G(98)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Semp Dee Runk Sq",
-    "size": "05G(60), 15G(44)"
+    "size": "15G(1), 05G(20)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Buxus Semp Variegata Sq",
-    "size": "07G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Buxus Skylight Ppaf Betbox",
-    "size": "03G(972)"
+    "size": "03G(972-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Calamagrostis A Karl Foerster",
-    "size": "05G(270-FullBloom)"
+    "size": "05G(99-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cam J Spellbound",
-    "size": "05G(204)"
+    "size": "05G(184)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cam S Cleopatra",
     "size": "01G(148)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cam S Yuletide",
-    "size": "05G(780)"
+    "size": "05G(396)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cam S Yuletide Es",
-    "size": "03G(959-Specials)"
+    "size": "03G(935-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Atlantica Glauca Pendula",
-    "size": "15G(65)"
+    "size": "15G(63)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Atlantica Glauca",
-    "size": "20G(2), 07G(46), 10G(122)"
+    "size": "10G(102), 20G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Atlantica Horstmann",
-    "size": "15G(24), 05G(259), 10G(46)"
+    "size": "15G(23), 10G(46), 05G(252)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Deodara",
-    "size": "05G(244), 07G(255-Specials), 10G(297-Specials)"
+    "size": "10G(294-Specials), 07G(253-Specials), 05G(214)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Deodara Karl Fuchs",
-    "size": "15G(4), 05G(528), 07G(11), 10G(27)"
+    "size": "07G(11), 10G(27), 05G(522)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cedrus Deodara Wells Golden",
     "size": "15G(2), 10G(1), 07G(7)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Ceratostigma Plumbaginoides",
-    "size": "01G(572-Specials)"
+    "size": "01G(502-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Citrus Bearss Lime Sdf",
     "size": "05G(65)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Citrus Meyer Lemon Improved Sdf",
     "size": "05G(40)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Citrus Washington Navel Sdf",
     "size": "05G(55)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Coreopsis Early Sunrise",
-    "size": "01G(758-Specials)"
+    "size": "01G(438-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Coreopsis Vert Moonbeam",
-    "size": "01G(35-Specials)"
+    "size": "01G(660-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cornus Alba Ivory Halo",
-    "size": "05G(707-Specials), 02G(27)"
+    "size": "05G(495-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cornus Alb Neon Brst P27956 Fe",
-    "size": "05G(706-Specials)"
+    "size": "05G(668-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cornus Sericea Baileyi",
-    "size": "05G(482-Specials)"
+    "size": "05G(386-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cornus Sericea Firedance Fe",
-    "size": "05G(556-Specials), 008 INCH(1144-Specials)"
+    "size": "008 INCH(1144-Specials), 05G(512-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Cotinus Coggygria Royal Purple",
-    "size": "10G(103), 05G(40-FullBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Cotoneaster Apiculatus",
-    "size": "05G(244-BudBloom)"
+    "size": "05G(49-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Daphne Burkwoodii Carole Mackie",
-    "size": "07G(493-Specials), 05G(677-Specials)"
+    "size": "07G(493-Specials), 05G(595-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Daphne Trans Etrnl Fragrance Pp18361",
-    "size": "05G(4-BudBloom), 01G(91), 07G(172-BudBloom)"
+    "size": "05G(1-BudBloom), 07G(172-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Daphne Trans Summer Ice",
     "size": "07G(198), 05G(366-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Deschampsia Cespitosa Northern Lights",
-    "size": "01G(100-FullBloom)"
+    "size": "01G(90-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Dianthus Caryophyllus Neon Star Ppaf",
-    "size": "01G(793-Specials)"
+    "size": "01G(830-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Dianthus Caryophyllus Fire Star Ppaf",
-    "size": "01G(1028-Specials)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Dicentra Spectabilis",
-    "size": "01G(51-BudBloom)"
+    "size": "01G(96-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Echinacea Pow Wow Wild Berry",
+    "size": "01G(68-Buds)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Echinacea Purpurea Magnus",
+    "size": "01G(50-Buds)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Echinacea Sombrero Salsa Red Ppaf",
+    "size": "01G(38-Buds)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Euonymus Alatus Compacta",
-    "size": "05G(225-Specials), 01G(6927-Specials)"
+    "size": "01G(6663-Specials), 05G(77-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Euonymus Fortunei Emerald N Gold",
-    "size": "01G(23)"
+    "size": "01G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Euonymus J Aureo-Marginatus",
-    "size": "01G(4)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Euphorbia Asct Rainbw P21401",
-    "size": "01G(210-Specials)"
+    "size": "01G(20-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Euphorbia Wulfenii Glacier Blue Pp19027",
-    "size": "01G(249-Specials)"
+    "size": "01G(259-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Festuca Glauca Elijah Blue",
-    "size": "01G(740)"
+    "size": "01G(706)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Forsythia Intermedia Weekend R Ppaf",
-    "size": "01G(741-PastBloom), 05G(5394-Specials)"
+    "size": "01G(716-PastBloom), 05G(5394-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Forsythia Magical Gold Ppaf",
-    "size": "05G(552-Specials)"
+    "size": "05G(532-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Forsythia Spring Fling Ppaf Fe",
-    "size": "008 INCH(667-FullBloom)"
+    "size": "008 INCH(637-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Geranium Johnsons Blue",
-    "size": "01G(43-BudBloom)"
+    "size": "01G(133-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Geranium Rozanne",
-    "size": "01G(120-BudBloom)"
+    "size": "01G(485-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Helictotrichon Sempervirens Saphirspudel",
-    "size": "01G(1500-LightColor), 03G(237-FullBloom)"
+    "size": "01G(1180-LightColor)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hemerocallis Purple De Oro",
-    "size": "01G(40-Specials)"
+    "size": "01G(100-No Buds, Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Heuchera Berry Marmalade Pp23285",
-    "size": "01G(11)"
+    "size": "01G(1-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Heuchera Lime Marmalade Pp21861",
-    "size": "01G(50-FullBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Hibiscus Syr Aphrodite Pink",
-    "size": "01G(227-Bud/bloom, Past Bloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hibiscus Syr Collie Mullens",
-    "size": "01G(250-Buds), 05G(168-Buds)"
+    "size": "01G(60-Buds), 05G(96-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hibiscus Syr Helene",
-    "size": "05G(80-Buds), 01G(609-Buds)"
+    "size": "05G(3-Buds), 01G(313-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hibiscus Syr Minerva",
-    "size": "01G(505), 05G(289-Buds)"
+    "size": "05G(151), 01G(209)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hosta Diana Remembered",
-    "size": "01G(400)"
+    "size": "02G(517-FullBloom), 01G(6-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Hosta Frances Williams",
-    "size": "01G(15)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Hosta Patriot",
+    "size": "02G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Hosta Pauls Glory",
-    "size": "01G(20)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Hosta Undulata Albomarginata",
+    "size": "02G(109-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hyd End Sum Bloomstruck Pp25566",
-    "size": "05G(422-BudBloom)"
+    "size": "05G(246-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Hyd End Sum Crush Pp30359",
-    "size": "05G(104-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Hyd End Sum The Original Pp15298",
-    "size": "05G(42), 008 INCH(2)"
+    "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Ilex Meserveae Blue Prince Blue Princess",
-    "size": "01G(1583), 05G(324)"
+    "size": "05G(324), 01G(1583)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Ilex Meserveae Amore Ppaf",
     "size": "01G(1950-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Juniperus Chin Old Gold",
-    "size": "01G(29)"
+    "size": "01G(19)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Juniperus Chin Sea Green",
-    "size": "01G(40)"
+    "size": "01G(30)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Juniperus Communis Gold Cone Cn",
-    "size": "05G(1), 01G(1331-Specials)"
+    "size": "01G(1307-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Juniperus Sc Skyrocket Sq",
-    "size": "07G(40)"
+    "size": "07G(42)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Juniperus Squamata Blue Star",
-    "size": "05G(2187-Specials), 02G(1745-Specials), 01G(66)"
+    "size": "02G(1681-Specials), 05G(2185-Specials), 01G(5985-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Kniphofia Poco Orange",
-    "size": "01G(200)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Kniphofia Poco Red",
-    "size": "01G(265-Specials)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Lavandula A Munstead",
-    "size": "01G(30-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Lavandula Intermedia Phenomenal Pp24193",
-    "size": "01G(183-BudBloom), 02G(250-BudBloom)"
+    "size": "02G(162-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Lavandula S Javelin Forte Dp Purple Bold",
-    "size": "05G(1-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Leucanthemum S Becky",
-    "size": "01G(324-Specials)"
+    "size": "01G(389-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Nandina D Gulf Stream",
-    "size": "01G(4-FullBloom)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Nepeta Faassenii Walkers Low",
+    "size": "01G(80-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Parthenocissus Q Engelmannii Stk",
-    "size": "05G(105)"
+    "size": "05G(55)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pennisetum Alop Hameln",
-    "size": "05G(115-FullBloom)"
+    "size": "05G(115-FullBloom), 01G(536-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Penstemon Cha Cha Hot Pink Pp26699 Bold",
-    "size": "05G(18-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Penstemon Dark Towers Pp20013 Bold",
-    "size": "01G(106-Specials)"
+    "size": "01G(11-Specials), 05G(74-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Philadelphus Snowwhite Fntsy Pp13774 Fe",
     "size": "008 INCH(499-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Phlox Pan Bright Eyes",
-    "size": "01G(200-BudBloom)"
+    "size": "01G(222-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Phlox Pan Famous Light Purple Bold",
-    "size": "05G(190-Buds)"
+    "size": "05G(89-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Photinia Fraseri",
-    "size": "01G(160)"
+    "size": "01G(64)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Physocarpus Raspberry Lemonade Pp31198",
-    "size": "05G(973-Specials), 01G(1019-Specials)"
+    "size": "01G(1019-Specials), 05G(1027-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Physocarpus Sweet Cherry Tea Pp31235",
-    "size": "05G(462-BudBloomFullBloom), 01G(144-Buds)"
+    "size": "01G(144-Buds), 05G(385-BudBloomFullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Abies Cupressina",
-    "size": "10G(285-MaxQty20), 05G(177-MaxQty20), 20G(106-MaxQty20)"
+    "size": "05G(177-MaxQty20), 10G(263-MaxQty20), 20G(86-MaxQty20)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Abies Nidiformis",
-    "size": "01G(1369-Specials), 02G(1145-Specials), 05G(1358-Specials)"
+    "size": "05G(1348-Specials), 01G(1361-Specials), 02G(1145-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Abies Pendula",
     "size": "05G(81)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Abies Pusch",
-    "size": "02G(220)"
+    "size": "02G(220-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Glauca Conica",
-    "size": "02G(2841)"
+    "size": "02G(2837)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Glauca Conica Sq",
-    "size": "07G(460), 05G(2189)"
+    "size": "05G(2147-FullBloom), 07G(458-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Glauca North Pole",
-    "size": "05G(124), 07G(112)"
+    "size": "07G(112-LightColor), 05G(124)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Baby Blue",
-    "size": "03G(442), 05G(4520-Specials)"
+    "size": "03G(125-FullBloom), 05G(3860-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Baby Blue Sq",
     "size": "07G(200)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Bacheri Sq",
     "size": "07G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Fastigiata",
     "size": "10G(212), 15G(14)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Fastigiata Sq",
     "size": "07G(120)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Glauca Globosa",
-    "size": "10G(93), 15G(113), 05G(1041-Specials)"
+    "size": "10G(106), 05G(1031-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Glauca Globosa Sq",
-    "size": "07G(180)"
+    "size": "07G(261)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Blue Dreams Pp35604",
-    "size": "10G(25), 07G(218), 15G(9)"
+    "size": "10G(25), 15G(9), 07G(218)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens The Blues",
-    "size": "05G(559-Specials)"
+    "size": "05G(159-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Picea Pungens Blue Waves Pp35633",
     "size": "10G(9), 07G(106)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pieris Japonica Mountain Fire",
-    "size": "01G(248)"
+    "size": "01G(186)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pieris Japonica Valley Rose",
     "size": "01G(238)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pinus Heldreichii Emerald Arrow",
-    "size": "10G(233-Max Qty 10)"
+    "size": "10G(231-Max Qty 10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pinus Mugo Pumilio",
-    "size": "10G(250), 02G(1218-Specials), 01G(957-Specials), 05G(1412-Specials)"
+    "size": "01G(952-Specials), 10G(230), 02G(1256-Specials), 05G(996-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pinus Mugo Slowmound",
-    "size": "05G(249-Specials)"
+    "size": "05G(229-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pinus Nigra",
-    "size": "10G(181), 30G(152-Specials)"
+    "size": "10G(142), 30G(149-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pinus Nigra Sq",
-    "size": "15G(471-Specials), 20G(395-Specials)"
+    "size": "15G(468-Specials), 20G(453-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Pittosporum Ten Beach Ball Pp28726 Sun",
     "size": "008 INCH(20-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Potentilla Fruticosa Goldfinger",
-    "size": "05G(44-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Potentilla Fruticosa Kathryn Dykes",
-    "size": "02G(1230-BudBloomFullBloom)"
+    "size": "02G(1210-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Prunus Laur Schipkaensis",
     "size": "10G(198-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Rhaph Umb Minor",
-    "size": "05G(32-Buds)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Rhus Aromatica Gro-Low",
+    "size": "01G(58-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Rhus Trilobata Autumn Amber",
     "size": "01G(231-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Rhus Typhina Tiger Eyes R Pp16185 Fe",
-    "size": "008 INCH(266-FullBloom)"
+    "size": "008 INCH(276-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Rubus Fruticosus Watson Black Satin Swt",
-    "size": "008 INCH(100)"
+    "size": "008 INCH(60)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Salix Candida Iceberg Alley Fe",
-    "size": "05G(155)"
+    "size": "05G(89-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Salvia Sylvestris May Night",
-    "size": "01G(336-Specials)"
+    "size": "01G(139-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Salvia Nemorosa East Friesland",
-    "size": "01G(890-BudBloom)"
+    "size": "01G(309-BudBloomFullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Scabiosa Columbaria Butterfly Blue",
-    "size": "01G(529-Specials)"
+    "size": "01G(784-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Solidago Solar Glory Ppaf",
-    "size": "05G(49-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Sorbaria Sorbifolia Matcha Ball Ppaf Fe",
     "size": "008 INCH(105-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Spiraea Japonica Goldmound",
-    "size": "05G(259-Buds)"
+    "size": "05G(217-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Spiraea Bumalda Goldflame",
+    "size": "05G(349-Buds)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Spiraea Japonica Little Princess",
-    "size": "02G(202-BudBloom)"
+    "size": "02G(108-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Syringa Prestoniae Donald Wyman",
-    "size": "01G(822-Specials)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Patula Miss Kim",
     "size": "05G(136), 01G(184-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Patula Violet Uprising Pp28959",
-    "size": "05G(220)"
+    "size": "05G(176-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Vulgaris Charles Joly",
-    "size": "05G(766-Specials)"
+    "size": "05G(762-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Vulgaris Krasavitsa Moskvy",
-    "size": "05G(686-Specials)"
+    "size": "05G(682-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Vulgaris Ludwig Spaeth",
-    "size": "05G(824-Specials)"
+    "size": "05G(728-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Vulgaris My Favorite",
     "size": "05G(557-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Syringa Vulgaris Sensation",
     "size": "05G(899-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Taxus Media Dark Green Spreader",
-    "size": "02G(315), 05G(1801-Specials)"
+    "size": "02G(315), 05G(1767-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Taxus Media Densiformis",
-    "size": "05G(1770-Specials), 15G(152-LightColor), 10G(359), 02G(610)"
+    "size": "05G(1715-Specials), 15G(152-LightColor), 10G(359), 02G(610)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Taxus Media Hicksii",
-    "size": "05G(1383-Specials), 02G(2981-Specials), 10G(194)"
+    "size": "02G(2981-Specials), 05G(1328-Specials), 10G(172)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Degroots Spire",
-    "size": "05G(12-FullBloom), 10G(587-Specials)"
+    "size": "05G(12-FullBloom), 10G(628-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Emerald Green",
-    "size": "30G(138), 10G(1416-FullBloom)"
+    "size": "10G(1318-FullBloom), 30G(183)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Emerald Green Sq",
-    "size": "15G(162)"
+    "size": "15G(42)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Globosa Aurea",
     "size": "02G(797-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Globosa Aurea Sq",
-    "size": "05G(128-FullBloom)"
+    "size": "05G(62-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Occidentalis Hetz Midget",
-    "size": "02G(320-Specials)"
+    "size": "02G(285-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Thuja Plicata Green Giant",
-    "size": "05G(1572-FullBloom), 10G(341), 30G(9)"
+    "size": "30G(29), 10G(319), 05G(1158-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Vaccinium Corymbosum Bluecrop Swt",
-    "size": "008 INCH(106-Fruit)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Vaccinium Corymbosum Duke Swt",
+    "size": "008 INCH(12)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Vaccinium Corymbosum Sunshine Blue Swt",
-    "size": "008 INCH(80)"
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Vaccinium Bnb Silver Dollar R Ppaf",
+    "size": "02G(44)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Veronica Liwanensis",
     "size": "01G(100-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Veronica Spicata Pink Candles 29780",
-    "size": "01G(299-Specials)"
+    "size": "01G(284-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Veronica Spicata Red Fox",
-    "size": "01G(75-Specials)"
+    "size": "01G(570-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Veronica Spicata Royal Candles Pp18932",
-    "size": "01G(228-Buds)"
+    "size": "01G(169-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Carlesii",
-    "size": "05G(135)"
+    "size": "05G(115)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Opulus Nanum",
-    "size": "02G(203-FullBloom), 01G(160)"
+    "size": "02G(196-FullBloom), 01G(160-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Opulus Sterile",
     "size": "02G(26-PastBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Plicatum Opening Day Pp28958 Fe",
     "size": "05G(7-PastBloom), 008 INCH(603-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Rhytidophylloides Alleghany",
     "size": "01G(169)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Viburnum Tinus Spring Bouquet",
     "size": "05G(20-FullBloom), 01G(40-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
+    "name": "Vinca Minor Sterling Silver",
+    "size": "01G(36-FullBloom)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Weigela Florida Java Red",
     "size": "01G(968-Specials), 05G(743-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Weigela Florida Minuet",
-    "size": "05G(741-Specials), 01G(264-Specials)"
+    "size": "01G(264-Specials), 05G(594-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Weigela Florida Red Prince",
-    "size": "05G(368-Specials)"
+    "size": "05G(60-Specials), 01G(100)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Weigela Florida Variegata Nana",
-    "size": "01G(470-PastBloom)"
+    "size": "01G(263-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Weigela Raspberry Lemonade",
-    "size": "01G(363-FullBloom)"
+    "size": "01G(300-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Wisteria Fl Aunt Dee Stk",
-    "size": "05G(80)"
+    "size": "05G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Wisteria Frutescens Amethyst Falls Stk",
-    "size": "05G(748-Specials)"
+    "size": "05G(555-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
-    "name": "Wisteria Macrostachya Blue Moon Stk",
-    "size": "05G(36)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Oregon-Forest Grove)",
+    "company": "EVERDE 8-03_XLS (Oregon-Forest Grove)",
     "name": "Yucca Filamentosa Color Guard",
-    "size": "03G(20)"
+    "size": "03G(32)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Carica Papaya Mexican",
+    "size": "02G(582)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Carica Papaya Solo",
+    "size": "02G(729)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Carica Papaya Strawberry",
-    "size": "02G(5)"
+    "size": "02G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Citrus Bearss Lime Sdf",
-    "size": "15G(170)"
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Casimiroa Edulis Vernon Stk",
+    "size": "05G(46)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Citrus Eureka Lemon Std -Pir",
-    "size": "05G(133)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Citrus Makrut / Indonesian Lime Sdf",
-    "size": "05G(316-Specials)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Citrus Thornless Key Lime Sdf",
-    "size": "05G(1231-Specials)"
+    "size": "05G(140-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Citrus Valencia Orange Sdf",
-    "size": "05G(1838-Specials)"
+    "size": "05G(150-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Citrus Washington Navel Sdf",
-    "size": "05G(1227-Specials)"
+    "size": "05G(145-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Diospyros Kaki Fuyu - Jiro",
-    "size": "05G(481)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Feijoa Sellowiana Nazametz Pt3",
-    "size": "05G(343-Specials)"
+    "size": "05G(219-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Ficus C Black Mission",
-    "size": "05G(670)"
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Ficus Carica Turkish",
+    "size": "05G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Malus D Fuji",
+    "size": "05G(30)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Mangifera Triple Time (Seacrest)",
+    "size": "15G(105), 05G(67)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Musa Acuminata Dwarf Cavendish",
+    "size": "05G(657)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Musa Acuminata Zebrina",
+    "size": "05G(59)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Passiflora Frederick Stk",
-    "size": "05G(172)"
+    "size": "05G(388)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Passiflora Edulis Stk",
-    "size": "05G(1421)"
+    "size": "05G(1658)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Persea Fuerte Avocado-Pir",
-    "size": "05G(162)"
+    "size": "05G(446), 15G(89)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Persea Zutano Avocado-Pir",
+    "size": "05G(160)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Armeniaca 5N1 Std",
     "size": "07G(44)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Avium Bing",
-    "size": "05G(251)"
+    "size": "05G(169)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Avium Coral Champagne",
-    "size": "05G(855-Specials)"
+    "size": "05G(812-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Avium Lapins",
-    "size": "05G(471)"
+    "size": "05G(428)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Prunus Cerasifera Hollywood",
-    "size": "05G(61)"
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Prunus P V Nucipersica Panamint",
+    "size": "05G(696)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Salicifolia Capulin",
-    "size": "05G(250-Fruit)"
+    "size": "05G(194-Fruit)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Salicina Satsuma",
-    "size": "05G(151)"
+    "size": "05G(96)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Psidium Guajava China White",
-    "size": "05G(4)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Psidium Guajava Mexican Cream Std",
-    "size": "05G(4)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Psidium Guajava Red Malaysian",
-    "size": "05G(29)"
+    "size": "05G(447)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Psidium Guajava South African",
+    "size": "05G(577)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Psidium Guajava Tropic White",
-    "size": "05G(160)"
+    "size": "05G(696)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Psidium Yellow Lemon",
-    "size": "05G(1217-Fruit)"
+    "size": "05G(678-Fruit)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Punica Granatum Wonderful",
-    "size": "05G(657)"
+    "size": "05G(479)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Salicina Mariposa",
-    "size": "05G(1283)"
+    "size": "05G(1251)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Prunus Salicina Methley",
-    "size": "05G(309)"
+    "size": "05G(294)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Selenicereus Undatus Edgars Red",
-    "size": "02G(11)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Selenicereus Undatus Vietnamese",
     "size": "02G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Selenicereus Undatus Vietnamese",
+    "size": "02G(50)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Vaccinium Corymbosum Oneal",
+    "size": "02G(239)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
+    "name": "Vaccinium Corymbosum Sharpblue",
+    "size": "02G(412)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Ziziphus Jujuba Honey Jar",
-    "size": "05G(858-Specials)"
+    "size": "05G(789-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
-    "name": "Jujube Lang",
-    "size": "05G(1139-Specials)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Jujube Li",
-    "size": "05G(1830-Specials)"
+    "size": "05G(996)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Piru)",
+    "company": "EVERDE 8-03_XLS (Piru)",
     "name": "Ziziphus Jujuba Shanxi Li",
-    "size": "05G(836-Specials)"
+    "size": "05G(831-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Acacia Redolens",
-    "size": "05G(141)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Acacia Redolens Low Boy",
-    "size": "05G(89)"
+    "size": "05G(79)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Achillea Millefolium",
-    "size": "01G(732)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Achillea Mil Paprika",
-    "size": "01G(439)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Agapanthus Baby Pete P21705 Mon",
-    "size": "01G(16)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agapanthus Ever Amethyst Pp30163 Sun",
     "size": "008 INCH(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agapanthus Orientalis Blue",
-    "size": "03G(80), 01G(1773)"
+    "size": "01G(2850)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agapanthus Tinkerbell",
-    "size": "05G(159), 01G(42)"
+    "size": "05G(142), 01G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Americana",
-    "size": "15G(85), 30G(4)"
+    "size": "15G(57)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Americana Marginata",
-    "size": "024 INCH BOX(97), 15G(108), 30G(39)"
+    "size": "15G(98), 024 INCH BOX(97), 30G(30)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Blue Ember",
-    "size": "02G(200)"
+    "size": "02G(196)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Blue Flame",
-    "size": "15G(67), 05G(88)"
+    "size": "15G(88), 05G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Blue Glow",
-    "size": "02G(167), 05G(1846), 15G(60)"
+    "size": "02G(15), 15G(45), 05G(740)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Celsii Nova",
-    "size": "05G(48)"
+    "size": "05G(40)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Horrida",
-    "size": "05G(375)"
+    "size": "05G(717)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Ovatifolia Frosty Blue",
-    "size": "05G(233)"
+    "size": "05G(218)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Ovatifolia Vanzie",
-    "size": "05G(1033), 15G(3)"
+    "size": "15G(10), 05G(1043)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Parryi Truncata",
-    "size": "05G(1163), 01G(2833), 15G(25)"
+    "size": "01G(2833), 05G(1760), 15G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Ray O Light P21854",
-    "size": "05G(36)"
+    "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Agave Titanota Black And Blue",
     "size": "02G(200)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Aloe Rooikappie",
-    "size": "01G(300)"
+    "size": "01G(182)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Anigozanthos Big Red",
-    "size": "01G(2756)"
+    "size": "01G(2541)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Anigozanthos Yellow Gem",
-    "size": "01G(464)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Arbutus Marina Mt",
-    "size": "30G(71)"
+    "size": "30G(45)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Arbutus Unedo",
     "size": "30G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Archontophoenix Cunningham",
     "size": "95G(28)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Archontophoenix Cunningham Mt",
     "size": "30G(11), 95G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Arecastrum Romanzoffianum",
-    "size": "15G(67), 30G(110)"
+    "size": "30G(109), 15G(67)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Artemisia Cal Canyon Grey",
-    "size": "01G(1505)"
+    "size": "01G(505)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Asparagus Aethiopicus Sprengeri",
-    "size": "01G(1636)"
+    "size": "01G(1329)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Asparagus Densiflorus Myers",
+    "size": "05G(36)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Azalea Encore Aut Bonfire Ppaf",
-    "size": "008 INCH(447)"
+    "size": "008 INCH(398)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Azalea Encore Aut Fire Pp28279",
-    "size": "03G(144), 008 INCH(1330)"
+    "size": "008 INCH(1228), 03G(43)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Azalea Encore Aut Ivory Pp25046",
-    "size": "008 INCH(67)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Azalea Encore Aut Royalty Ppaf",
-    "size": "03G(7)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Azalea Encore Aut Sangria Pp15077",
-    "size": "008 INCH(7729)"
+    "size": "008 INCH(2198)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Azalea Pride Of Dorking Red",
-    "size": "05G(226)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Azalea Red Bird",
-    "size": "01G(1054), 03G(2)"
+    "size": "03G(2), 01G(1018)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Baccharis Pilularis Centennial",
-    "size": "05G(35)"
+    "size": "05G(9), 01G(1000)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Baccharis Pilularis Twin Peaks",
-    "size": "05G(509), 01G(180)"
+    "size": "01G(112), 05G(509)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bauhinia Variegata",
     "size": "15G(284)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Beaucarnea Recurvata",
-    "size": "05G(238), 01G(132)"
+    "size": "05G(248)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bignonia Cap Tangerine Beauty Stk",
-    "size": "05G(488), 01G(55)"
+    "size": "05G(411)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Bougainvillea Bambino Lilac Pw",
-    "size": "01G(257)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Bougainvillea Barbara Karst",
-    "size": "012 INCH(10)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bougainvillea Barbara Karst Es",
-    "size": "15G(8)"
+    "size": "05G(18), 15G(10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bougainvillea Barbara Karst Stk",
     "size": "03G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bougainvillea La Jolla",
-    "size": "15G(46)"
+    "size": "05G(6), 05G(218), 01G(30), 15G(25)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Bougainvillea Orange King Stk",
+    "size": "15G(8)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bougainvillea Torch Glow",
-    "size": "15G(30), 05G(67), 01G(1), 05G(210)"
+    "size": "15G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bouteloua Blond Ambtn P22048",
-    "size": "01G(2022)"
+    "size": "01G(1395)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Brachychiton Populneus",
-    "size": "15G(24), 036 INCH BOX(3)"
+    "size": "15G(22), 036 INCH BOX(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bulbine Frutescens Yellow",
-    "size": "01G(1794)"
+    "size": "01G(1790)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Bulbine Frutescens Hallmark Orange",
-    "size": "05G(378), 01G(2841)"
+    "size": "05G(297), 01G(3796)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus Baby Gem Pp21159 Sun",
     "size": "008 INCH(774)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus Babylon Beauty Ppaf Betbox",
-    "size": "03G(513)"
+    "size": "03G(354)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus M Green Beauty",
-    "size": "05G(51)"
+    "size": "05G(7)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus M Japonica",
-    "size": "05G(121), 15G(183), 05G(1274)"
+    "size": "05G(294), 05G(1019), 15G(171)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus M Winter Gem",
-    "size": "05G(340), 01G(87)"
+    "size": "05G(66)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus Renaissance Ppaf Betbox",
-    "size": "03G(452)"
+    "size": "03G(237)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Buxus Skylight Ppaf Betbox",
-    "size": "01G(455)"
+    "size": "03G(8)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Caesalpinia Mexicana",
+    "size": "05G(1)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Calliandra Haematocephala Stk",
-    "size": "05G(1020), 15G(153), 15G(47)"
+    "size": "15G(6), 15G(253), 05G(1178), 15G(17)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Callistemon Citrinus Tf",
+    "size": "15G(130)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Callistemon Vim Little John",
-    "size": "15G(41), 05G(242)"
+    "size": "15G(1), 01G(205), 05G(436)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Canna Cleopatra",
-    "size": "008 INCH(985)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Canna Tropicanna R Ati",
-    "size": "008 INCH(1454)"
+    "size": "008 INCH(91)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Canna Tropicanna R Black Ppaf Ati",
-    "size": "008 INCH(3427)"
+    "size": "008 INCH(2298)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Carex Divulsa (European)",
-    "size": "01G(370)"
+    "size": "01G(720), 05G(50), 01G(34)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Carex Flacca Glauca",
     "size": "01G(743)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Carex O Evergold Ppaf",
-    "size": "01G(364)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Carex Praegracilis",
-    "size": "01G(400)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Carex Tumulicola (California)",
-    "size": "01G(45)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Carissa Macro Boxwood Beauty",
-    "size": "05G(2112), 01G(1242)"
+    "size": "05G(2106), 01G(495)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Carissa Macro Green Carpet",
-    "size": "05G(1663)"
+    "size": "05G(815)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Carissa Macro Tuttle",
-    "size": "05G(808), 01G(1018)"
+    "size": "01G(200)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Ceanothus Yankee Point",
-    "size": "05G(104)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cercidium Desert Museum Mt",
-    "size": "15G(590), 30G(333), 95G(138)"
+    "size": "95G(137), 30G(524), 15G(559)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cercidium Desert Museum Tf",
-    "size": "30G(2)"
+    "size": "30G(19)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cercis Tex Merlot Pp22297",
     "size": "15G(95)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Chamaerops Humilis",
-    "size": "05G(159), 05G(100), 03G(50), 30G(119), 15G(14)"
+    "size": "05G(200), 30G(119), 03G(50)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Chilopsis Linearis Burgundy",
-    "size": "15G(40)"
+    "size": "15G(34), 024 INCH BOX(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Chitalpa Tashkentensis Pink Dawn",
-    "size": "30G(57), 95G(86), 15G(420)"
+    "size": "15G(20)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Chondropetalum Tectorum",
-    "size": "05G(369), 01G(29)"
+    "size": "01G(19), 05G(24)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Chondropetalum T El Campo",
+    "size": "01G(500)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cistus Hybridus",
+    "size": "05G(98)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Citrus Bearss Lime Sdf",
+    "size": "15G(6)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Coprosma Pac Sunr P27648 Ati",
+    "size": "008 INCH(846)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Coprosma Pac Suns P22607 Ati",
+    "size": "008 INCH(742)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Cordyline Electric Pink P19213",
+    "size": "15G(67), 05G(1226), 05G(25)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Cordyline A Red Sensation",
+    "size": "15G(37), 05G(212)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Cordyline Torbay Dazzler",
+    "size": "15G(9)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Cotoneaster Horizontalis",
     "size": "05G(131)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Cistus Purpureus",
-    "size": "05G(13)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Coprosma Pac Sunr P27648 Ati",
-    "size": "008 INCH(1236)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Coprosma Pac Suns P22607 Ati",
-    "size": "008 INCH(804)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Coprosma Marble Queen",
-    "size": "05G(123)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Cordyline Electric Pink P19213",
-    "size": "05G(881), 15G(76), 05G(3)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Cordyline A Red Sensation",
-    "size": "05G(36), 15G(24)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Cordyline Torbay Dazzler",
-    "size": "15G(16)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Cotoneaster Horizontalis",
-    "size": "05G(139)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cotoneaster Dammeri Lowfast",
     "size": "01G(1998)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Crassula Ovata",
     "size": "01G(688)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Crassula Ovata Gollum",
-    "size": "05G(61), 01G(778)"
+    "size": "01G(778), 05G(57)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cupressocyparis Leylandii",
-    "size": "05G(753), 15G(102), 05G(3)"
+    "size": "05G(837), 15G(100)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cupressus Semp Glauca",
-    "size": "05G(788), 30G(335), 15G(347), 01G(3735)"
+    "size": "05G(383), 15G(1213), 30G(335), 01G(3517)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Cupressus Semp Little Minaret",
-    "size": "30G(82)"
+    "size": "30G(59)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Curcuma Super Red",
+    "size": "01G(400)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dasylirion Longissima",
-    "size": "15G(1), 05G(208)"
+    "size": "05G(150)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dasylirion Wheeleri",
     "size": "15G(104)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dianella Revoluta Cassa Blue Pp17998",
-    "size": "01G(50)"
+    "size": "01G(2313)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dianella Clarity Blue Pp27348 Sun",
-    "size": "01G(1129)"
+    "size": "01G(240)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dianella Revoluta Coolvista Pp22965 Sun",
-    "size": "05G(50)"
+    "size": "008 INCH(1000), 05G(37)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Dianella Revoluta Coolvista Pp22965 Sunb",
+    "size": "008 INCH(6)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dianella Tasmanica Variegata",
-    "size": "05G(1)"
+    "size": "01G(1195), 05G(1207), 05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Dietes Milky Way Ppaf Sunb",
-    "size": "008 INCH(20)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dietes Bicolor",
-    "size": "05G(2035), 01G(1458)"
+    "size": "01G(1196), 05G(1593), 05G(66)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dietes Iridioides",
-    "size": "01G(1392)"
+    "size": "01G(340)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dietes Iridioides Orange Drop",
-    "size": "01G(1031), 05G(884)"
+    "size": "01G(720), 05G(857)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dipladenia Madinia Pink Ppaf",
-    "size": "05G(172)"
+    "size": "05G(87)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Distictis Buccinatoria Stk",
-    "size": "05G(867), 15G(237)"
+    "size": "15G(227), 05G(829)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Distictis Rivers Stk",
     "size": "15G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Dodonaea Viscosa Purpurea",
-    "size": "01G(79), 05G(638)"
+    "size": "05G(602)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Duranta E Sweet Memories",
-    "size": "05G(47)"
+    "size": "01G(378)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Elaeagnus Pungens",
-    "size": "05G(330)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Elaeocarpus Decipiens",
-    "size": "15G(312)"
+    "size": "15G(2), 15G(316)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Eremophila G Grey Horizon Pp29275",
+    "size": "01G(3166)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Erigeron Karvinskianus",
+    "size": "01G(870)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Escallonia Exoniensis Fradesi",
-    "size": "05G(93)"
+    "size": "05G(77)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Euonymus J Aureo-Marginatus",
-    "size": "01G(6364), 05G(166)"
+    "size": "01G(5378), 05G(12), 01G(525)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Euonymus J Green Spire",
-    "size": "01G(60), 05G(416)"
+    "size": "01G(209), 05G(977)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Euonymus J Silver King",
-    "size": "05G(223)"
+    "size": "05G(206)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Euonymus J Chollipo Es",
-    "size": "05G(61)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Euphorbia Miner'S Merlot Ppaf Sunb",
+    "size": "008 INCH(43)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Euphorbia Rigida",
-    "size": "05G(54)"
+    "size": "05G(31)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Euphorbia Sticks On Fire",
-    "size": "15G(231)"
+    "size": "15G(374)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Fatsia Japonica",
-    "size": "05G(1033)"
+    "size": "05G(653)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Festuca Rubra Molate",
-    "size": "01G(763)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Feijoa Sellowiana Pt3",
+    "size": "05G(50)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ficus Micro Nitida Col",
-    "size": "05G(727), 15G(1036), 30G(242)"
+    "size": "05G(382), 15G(978), 30G(227)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ficus Micro Nitida Tf",
-    "size": "30G(209), 15G(332)"
+    "size": "15G(434), 30G(185)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ficus Pumila Stk",
-    "size": "01G(2337), 15G(8), 05G(1102)"
+    "size": "01G(1355), 15G(12), 05G(869)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Fraxinus Oxycarpa Raywood",
-    "size": "15G(629)"
+    "size": "30G(19), 15G(615)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Fraxinus Velutina Fan Tex",
+    "size": "05G(55)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Gardenia J Veitchii",
-    "size": "01G(3284), 05G(639), 05G(10)"
+    "size": "01G(4508), 05G(3157), 05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Gardenia J Veitchii Es",
+    "size": "05G(132)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Gardenia J Veitchii Pt3",
+    "size": "013 INCH(4)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Gardenia J Veitchii Stk",
-    "size": "013 INCH(67)"
+    "size": "013 INCH(225)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Gleditsia Triacanthos Sunburst",
-    "size": "15G(8)"
+    "size": "15G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Gleditsia Triacanthos Shademaster",
-    "size": "30G(33)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Grevillea Lanigera Coastal Gem",
+    "size": "01G(200)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Grevillea Peach N Crm P18035",
+    "size": "05G(10)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Grevillea Whiteana Moonlight",
+    "size": "05G(265)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Hemerocallis Island Fripp",
+    "size": "008 INCH(1)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Hemerocallis Island Wassaw",
-    "size": "008 INCH(47)"
+    "size": "008 INCH(135)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Hesperaloe Parvifolia",
-    "size": "05G(192), 15G(127)"
+    "size": "05G(81), 15G(127)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Heuchera Sanguinea",
-    "size": "01G(488)"
+    "size": "01G(596)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Hyd Mac Kuhnert",
-    "size": "05G(2)"
+    "size": "05G(70)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ilex Vomitoria Stokes",
-    "size": "05G(1049)"
+    "size": "05G(948)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Ipomoea Acuminata Stk",
+    "size": "05G(567)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Jacaranda Mimosifolia",
-    "size": "30G(63)"
+    "size": "30G(94)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Juncus Patens",
+    "size": "01G(900)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Juniperus Chin Blue Point",
-    "size": "05G(400), 15G(3), 30G(31), 05G(517)"
+    "size": "05G(355), 15G(3), 30G(31)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Juniperus Chin Sea Green",
-    "size": "05G(200)"
+    "size": "05G(288)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Juniperus Procumbens Nana",
+    "size": "01G(200)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Kniphofia Uvaria",
-    "size": "01G(442)"
+    "size": "01G(426)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Indica Cherokee Red Tf",
-    "size": "15G(90), 024 INCH BOX(255), 05G(583)"
+    "size": "05G(68), 15G(69)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Indica Cherokee Red Mt",
     "size": "036 INCH BOX(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Lag Dbl Dyn R Pp27085 Pt4",
+    "size": "05G(6)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Dbl Feat R Pp23599 Mlt",
-    "size": "15G(22)"
+    "size": "15G(16)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Dynamite R Tf",
-    "size": "036 INCH BOX(10), 30G(164)"
+    "size": "036 INCH BOX(10), 15G(27), 30G(22)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Lag Dynamite R Pt4",
-    "size": "05G(24)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Muskogee Tf",
-    "size": "95G(97), 024 INCH BOX(89), 30G(28), 15G(28)"
+    "size": "15G(34), 95G(97)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Muskogee",
-    "size": "15G(4), 036 INCH BOX(10)"
+    "size": "036 INCH BOX(10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Natchez Tf",
-    "size": "95G(75), 30G(75), 05G(105)"
+    "size": "05G(682), 95G(75)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Natchez",
-    "size": "15G(192), 05G(6)"
+    "size": "15G(188)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Tuscarora Tf",
-    "size": "15G(583), 024 INCH BOX(265), 95G(25)"
+    "size": "95G(25), 024 INCH BOX(156), 05G(399), 15G(585)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Tuscarora",
-    "size": "05G(63), 15G(45)"
+    "size": "15G(120), 05G(34)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lag Zuni Tf",
-    "size": "30G(124), 024 INCH BOX(148), 15G(17)"
+    "size": "15G(79), 30G(46), 05G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lantana New Gold",
-    "size": "05G(139)"
+    "size": "05G(824), 01G(1888)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lantana Radiation",
-    "size": "05G(30)"
+    "size": "05G(26)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lantana Mont Super Purple Pp32353",
-    "size": "05G(188)"
+    "size": "05G(79)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Laurus Nobilis",
+    "size": "30G(25)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Laurus Nobilis Tf",
-    "size": "036 INCH BOX(6)"
+    "size": "024 INCH BOX(3), 036 INCH BOX(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lavandula Dentata",
-    "size": "01G(863)"
+    "size": "01G(635)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lavandula Pinnata",
-    "size": "01G(250)"
+    "size": "01G(131)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lavandula S Otto Quast",
-    "size": "01G(1385), 01G(87)"
+    "size": "01G(4), 01G(71)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Leptospermum S Ruby Glow ",
-    "size": "05G(5)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Ebony Pp23258",
-    "size": "15G(68)"
+    "size": "15G(38)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Safari Goldstrike",
-    "size": "05G(1492), 15G(28)"
+    "size": "05G(1144), 15G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Hawaii Mg Pp29636",
-    "size": "15G(55)"
+    "size": "15G(54)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Hawaii Sunrise",
-    "size": "15G(28), 05G(701)"
+    "size": "05G(794), 15G(28)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Salig Summer Red",
-    "size": "05G(1504)"
+    "size": "05G(12), 05G(1157)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucadendron Saligna Winter Red",
-    "size": "05G(1178)"
+    "size": "05G(1147)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucophyllum F Green Cloud",
-    "size": "05G(411)"
+    "size": "05G(276)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Leucophyllum F Heavenly Cloud",
+    "size": "01G(55), 05G(34)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Leucophyllum L Lynns Legacy",
-    "size": "05G(18)"
+    "size": "05G(49)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ligustrum J Texanum",
-    "size": "01G(374), 15G(105), 15G(159), 05G(1401)"
+    "size": "01G(3190), 15G(105), 15G(462), 01G(188), 05G(1542)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Ligustrum J Texanum Stk Col",
-    "size": "05G(636)"
+    "size": "05G(587)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Limonium Perezii",
-    "size": "01G(1588), 05G(878)"
+    "size": "01G(390)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Liriope M Big Blue",
-    "size": "01G(286), 05G(1538)"
+    "size": "01G(275), 05G(1528)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Liriope M Silvery Sunproof",
     "size": "01G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Liriope S Silver Dragon",
-    "size": "05G(35)"
+    "size": "05G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Lomandra Arctic Frost Ppaf Sunb",
+    "size": "008 INCH(815)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Lonicera J Halliana",
-    "size": "01G(775)"
+    "size": "01G(675)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Lycianthes Rantonnetii Royal Robe Pt3",
-    "size": "05G(4)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Lycianthes Rantonnetii Royal Robe Pt4",
+    "size": "15G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Macfadyena Unguis-Cati Stk",
-    "size": "15G(115)"
+    "size": "01G(1333), 15G(114)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Magnolia G Kay Parris Fg",
-    "size": "30G(245), 95G(76), 15G(58), 036 INCH BOX(6)"
+    "size": "95G(77), 30G(245), 15G(67), 036 INCH BOX(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Man Bella Deep Red",
-    "size": "05G(54)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Mandevilla Sun Parasol Bluephoria",
+    "size": "01G(225)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Mangave Spotted Porcupine",
-    "size": "02G(544)"
+    "size": "02G(538)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Metrosideros Collina Springfire",
+    "size": "036 INCH BOX(2)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Metrosideros Excelsus",
     "size": "95G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Metrosideros Tahiti",
     "size": "15G(13)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Muhlenbergia Capillaris",
-    "size": "05G(1866), 01G(4851)"
+    "size": "05G(1449), 01G(4535)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Muhlenbergia Dubia",
+    "size": "01G(2964)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Muhlenbergia Lindheimeri",
-    "size": "05G(117)"
+    "size": "01G(2149), 05G(77)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Muhlenbergia Rigens",
-    "size": "05G(1313), 01G(2973)"
+    "size": "01G(2838), 05G(1299)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Muhlenbergia Capillaris White Cloud",
+    "size": "01G(775)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Myoporum Parvifolium Pink",
+    "size": "01G(2390)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Myoporum Putah Creek",
+    "size": "01G(291)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Myrtus Communis Compacta",
-    "size": "01G(186)"
+    "size": "01G(153)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nandina D Firepower",
-    "size": "05G(347), 15G(30)"
+    "size": "15G(30), 05G(340)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nandina D Gulf Stream",
-    "size": "05G(1188)"
+    "size": "05G(1094)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nandina D Nana Purpurea",
-    "size": "01G(365)"
+    "size": "01G(133)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nandina D Obsession Pp21891 Sun",
     "size": "008 INCH(90)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Nerium Oleander Little Red",
-    "size": "05G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nerium Oleander Petite Pink",
-    "size": "05G(511)"
+    "size": "05G(994)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nerium Oleander White",
-    "size": "05G(64)"
+    "size": "05G(250)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Nerium Oleander White Tf",
     "size": "30G(17)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Olea Europaea Dwarf",
-    "size": "05G(4604), 15G(7)"
+    "size": "05G(5146), 15G(91)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Olea Europaea Majestic Beauty R Nt Mon",
-    "size": "95G(5)"
+    "size": "95G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Olea Europaea Wilsonii Mt",
-    "size": "30G(483)"
+    "size": "30G(468)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Olea Europaea Wilsonii Tf",
+    "size": "30G(32)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pennisetum Advena Rubrum",
-    "size": "01G(152), 01G(550)"
+    "size": "01G(116), 01G(449)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Perovskia Atriplicifolia",
-    "size": "01G(2834)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Philodendron Selloum",
-    "size": "01G(2227)"
+    "size": "01G(338)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Philodendron Xanadu [Winterbourn]",
-    "size": "15G(14), 05G(100)"
+    "size": "15G(26)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Phormium Amazing Red",
-    "size": "05G(24)"
+    "size": "05G(597)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Phormium Tenax Jack Spratt",
-    "size": "05G(6)"
+    "size": "05G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Phormium Jester",
-    "size": "05G(63)"
+    "size": "05G(55)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Phormium Maiden",
-    "size": "05G(5)"
+    "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Phormium Pink Stripe",
-    "size": "15G(18)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Phormium Sundowner",
-    "size": "15G(163), 15G(70)"
+    "size": "15G(162), 05G(500), 15G(70)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Photinia Fraseri",
-    "size": "15G(113), 05G(274)"
+    "size": "15G(77), 05G(468)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pistacia Chinensis",
-    "size": "15G(83), 95G(16), 30G(35)"
+    "size": "95G(16), 30G(11), 15G(85)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pistacia Red Push Tf",
-    "size": "15G(97)"
+    "size": "15G(78)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Ten Beach Ball Pp28726 Sun",
-    "size": "008 INCH(142)"
+    "size": "008 INCH(111)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Ten Marjorie Channon",
     "size": "02G(300)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Cream De Mint",
-    "size": "05G(187)"
+    "size": "05G(157)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Tob Variegated",
-    "size": "15G(10), 05G(367)"
+    "size": "05G(150), 15G(48)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Tob Wheelers Dwarf",
-    "size": "05G(168), 15G(21)"
+    "size": "05G(18), 01G(100), 15G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pittosporum Tobira",
-    "size": "15G(18), 05G(328)"
+    "size": "15G(17), 05G(295)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Platanus Acerifolia Columbia",
-    "size": "15G(122)"
+    "size": "15G(116)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Plumbago A Imperial Blue",
-    "size": "01G(1373), 15G(8)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Plumeria Red",
-    "size": "01G(15)"
+    "size": "01G(173)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Plumeria Yellow",
-    "size": "01G(1)"
+    "size": "01G(73)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Podocarpus Blue Cl",
-    "size": "30G(73)"
+    "size": "95G(69), 30G(215)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Podocarpus Blue Col",
+    "size": "15G(383)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Podocarpus Gracilior Col",
-    "size": "95G(51), 30G(30), 15G(138), 05G(3222)"
+    "size": "95G(51), 15G(4), 30G(45), 05G(2850)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Podocarpus Gracilior Es",
-    "size": "05G(245), 15G(297)"
+    "size": "15G(391), 05G(245)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Podocarpus Gracilior Tf",
-    "size": "30G(266)"
+    "size": "30G(230)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Podocarpus Icee Blue Col Mon",
-    "size": "30G(218), 95G(69)"
+    "size": "15G(233)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Polygala Myrtifolia Mariposa",
+    "size": "05G(197)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Portulacaria Afra Variegata",
-    "size": "01G(108)"
+    "size": "01G(112)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Prosopis Chilensis Mt",
     "size": "036 INCH BOX(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Prunus A Blenheim",
-    "size": "05G(24)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Prunus Avium Coral Champagne",
     "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Prunus Avium Lapins",
+    "size": "05G(11)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Prunus Cerasifera Krauter Vesuvius",
-    "size": "30G(148)"
+    "size": "30G(133)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Prunus Caroliniana Compacta Cl",
-    "size": "30G(24), 15G(22)"
+    "size": "15G(1), 30G(24)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Prunus P Redhaven Semi Dwarf",
-    "size": "05G(3)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Psidium Guajava Mexican Cream Std",
-    "size": "05G(55)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pyracantha C Lowboy",
-    "size": "05G(582)"
+    "size": "05G(554)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Pyrus Kawakamii",
-    "size": "30G(13)"
+    "size": "30G(11)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Quercus Agrifolia",
-    "size": "95G(60)"
+    "size": "95G(58)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Quercus Agrifolia Nt",
     "size": "30G(115), 95G(45)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Quercus Virginiana",
-    "size": "15G(265), 95G(12)"
+    "size": "15G(267), 95G(12)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rhaph Indica Bay Breeze",
-    "size": "05G(394)"
+    "size": "05G(577)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rhaph Indica Clara",
-    "size": "05G(1862), 01G(239)"
+    "size": "01G(437), 05G(1334)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rhaph Indica Pink Dancer",
-    "size": "05G(168)"
+    "size": "05G(174)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Rhaph Indica Pink Lady",
+    "size": "01G(4562)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rhus Lancea",
-    "size": "30G(17), 036 INCH BOX(1)"
+    "size": "30G(110), 036 INCH BOX(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Rosa Banksiae Lutea Stk",
+    "size": "15G(2)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosa Brick House Pink Pp32663 Blom",
     "size": "02G(10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Rosa Iceberg",
-    "size": "15G(201)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Rosa Fl Cpt Mini Cherry Ppaf",
+    "size": "008 INCH(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Rosa Iceberg",
+    "size": "15G(181)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosa K/O Petite Red P30811",
     "size": "02G(94)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosmarinus O Huntington Carpet",
-    "size": "01G(4896)"
+    "size": "01G(4587)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosmarinus O Ingramii",
-    "size": "05G(1), 01G(3250)"
+    "size": "01G(3238)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosmarinus O Prostratus",
-    "size": "05G(446), 01G(3164)"
+    "size": "01G(3041), 05G(444)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosmarinus O Sapphire Spreader",
-    "size": "01G(51)"
+    "size": "01G(45)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Rosmarinus O Tuscan Blue",
-    "size": "01G(853)"
+    "size": "01G(1430)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Salvia Greggii White",
-    "size": "01G(257)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Salvia Microphylla Hot Lips",
-    "size": "01G(1246)"
+    "size": "01G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Salvia Nemorosa Blue By You Ppaf",
-    "size": "01G(2061)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Schinus Molle Cl",
     "size": "30G(49)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Schinus Molle Tf",
-    "size": "30G(8)"
+    "size": "30G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Senecio Serpens",
-    "size": "01G(1854)"
+    "size": "01G(1834)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Sesleria Autumnalis",
-    "size": "01G(2329)"
+    "size": "01G(2043)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Solanum Jasminoides Stk",
-    "size": "05G(1095), 01G(329)"
+    "size": "15G(5), 05G(8), 05G(897), 15G(8), 01G(761)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Stipa Tenuissima",
-    "size": "05G(60)"
+    "size": "05G(42)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Strelitzia Nicolai",
-    "size": "30G(26), 05G(178), 15G(147)"
+    "size": "30G(28), 05G(1094), 15G(156)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Strelitzia Reginae",
-    "size": "15G(103), 05G(1966)"
+    "size": "05G(4), 15G(93), 05G(676)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Succulent Deluxe Combo Sunb",
-    "size": "013 INCH(12)"
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Syzygium Paniculatum Monterey Bay Cl",
+    "size": "05G(105)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Syzygium Paniculatum Monterey Bay  Cl",
-    "size": "15G(26)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Syzygium Paniculatum Monterey Bay P3",
-    "size": "05G(163), 15G(56)"
+    "size": "15G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Tecoma Bells Of Fire Pp24170 Sun",
-    "size": "05G(24)"
+    "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Tecoma Stans",
-    "size": "15G(20)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Tecoma Stans Stk",
-    "size": "15G(6)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Tecomaria Capensis Pt3",
-    "size": "05G(10)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Tecomaria Capensis Stk",
-    "size": "15G(86)"
+    "size": "15G(74), 05G(152)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Teucrium Chamaedrys",
-    "size": "05G(20)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Trachelospermum Asiaticum",
-    "size": "01G(1006)"
+    "size": "01G(853)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Trachelospermum Jasminoides",
-    "size": "01G(21), 01G(34)"
+    "size": "01G(21)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Trachelospermum Jasminoides Es",
-    "size": "05G(66)"
+    "size": "05G(67)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
-    "name": "Trachelospermum Jasminoides Stk",
-    "size": "15G(22)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Trachycarpus Fortunei",
-    "size": "05G(379), 15G(14), 30G(69)"
+    "size": "05G(379), 30G(69), 15G(114)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
+    "name": "Tristania Conferta Fg",
+    "size": "30G(29)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Tristania Conferta",
-    "size": "95G(59)"
+    "size": "95G(46)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Vigna Caracalla Stk",
-    "size": "05G(5)"
+    "size": "05G(19), 15G(50)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Vitex Trifolia Purpurea",
-    "size": "01G(200), 05G(100)"
+    "size": "05G(44)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Westringia Blue Gem Pp25674",
-    "size": "15G(322), 05G(409)"
+    "size": "15G(319), 05G(123)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Westringia F Mundi Pp24042",
-    "size": "05G(1782)"
+    "size": "05G(1929)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Westringia Fruticosa",
-    "size": "05G(2380), 15G(169)"
+    "size": "05G(2255), 15G(169)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Westringia F Wynyabbie Gem",
-    "size": "05G(951), 01G(486), 15G(342)"
+    "size": "05G(1557), 15G(342), 01G(430)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Xylosma Congestum Compacta",
-    "size": "15G(50)"
+    "size": "15G(200)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Xylosma Congestum",
-    "size": "15G(20)"
+    "size": "15G(27)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Yucca Gloriosa Variegata",
-    "size": "15G(231), 05G(42)"
+    "size": "15G(224), 05G(722)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Socal)",
+    "company": "EVERDE 8-03_XLS (Socal)",
     "name": "Yucca Recurvifolia",
-    "size": "05G(347)"
+    "size": "05G(236)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Abelia Edward Goucher",
-    "size": "05G(227)"
+    "size": "05G(43)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Abelia Kaleidosc P16988",
-    "size": "05G(178)"
+    "size": "05G(94)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Abelia Kaleidosc P16988 Sun",
-    "size": "008 INCH(492)"
+    "size": "008 INCH(399)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Acacia Redolens Low Boy",
-    "size": "01G(346)"
+    "size": "01G(106), 05G(300)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Acer Freemanii Autumn Blaze R",
-    "size": "05G(81)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Acer Palmatum Bloodgood Sq",
-    "size": "20G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Acer Palmatum Emperor I R",
-    "size": "20G(6), 15G(1)"
+    "size": "20G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Acer Palmatum Mt",
-    "size": "20G(1)"
+    "size": "20G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Acer Rubrum October Glory",
-    "size": "05G(70)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Acer Rubrum Red Sunset R",
-    "size": "05G(64)"
+    "size": "95G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Acer Rubrum Armstrong",
-    "size": "05G(30)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Achillea Mil Moonshine",
-    "size": "01G(15)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Acorus Gramineus Ogon",
-    "size": "01G(401)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Agapanthus Indigo Frost Pp25519 Sun",
-    "size": "008 INCH(689-Spikes)"
+    "size": "008 INCH(629-Spikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Agapanthus Orientalis Blue",
-    "size": "01G(324-NoSpikes)"
+    "size": "01G(1-NoSpikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Agapanthus Tinkerbell",
-    "size": "01G(429-NoSpikes)"
+    "size": "01G(295-NoSpikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Anigozanthos Big Red",
-    "size": "05G(75)"
+    "size": "05G(67)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Asparagus Aethiopicus Sprengeri",
-    "size": "01G(105)"
+    "size": "01G(90)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea Alaska White",
-    "size": "01G(225-NoBuds)"
+    "size": "01G(1-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Azalea Formosa Lavender",
-    "size": "05G(38)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea Formosa Red",
-    "size": "01G(2-NoBuds)"
+    "size": "01G(151-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea George Taber",
-    "size": "01G(1440-NoBuds)"
+    "size": "01G(1220-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea Happy Days",
-    "size": "05G(214-NoBuds)"
+    "size": "05G(92-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea Pink Ruffles",
-    "size": "05G(59-NoBuds)"
+    "size": "05G(17-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Azalea Red Bird",
-    "size": "01G(1268-NoBuds), 05G(131-NoBuds)"
+    "size": "01G(888-NoBuds), 05G(25-NoBuds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Baccharis Pilularis Pigeon Point",
-    "size": "01G(911)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bougainvillea Barbara Karst Stk",
-    "size": "05G(618)"
+    "size": "05G(32)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Bougainvillea Ca Gold Stk",
+    "size": "05G(1)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bougainvillea Elizabeth Angus",
-    "size": "05G(3)"
+    "size": "05G(39)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Bougainvillea Elizabeth Angus Stk",
+    "size": "05G(1)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bougainvillea Imp Thai Dlt Stk",
-    "size": "01G(5759), 05G(1030)"
+    "size": "01G(4358), 05G(818)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Bougainvillea Sundown Stk",
-    "size": "01G(116)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bouteloua Blond Ambtn P22048",
-    "size": "05G(200)"
+    "size": "05G(83), 01G(721-Spikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bulbine Frutescens Yellow",
-    "size": "01G(411)"
+    "size": "01G(394)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Bulbine Frutescens Hallmark Orange",
-    "size": "01G(244)"
+    "size": "01G(142)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus Babylon Beauty Ppaf Betbox",
-    "size": "01G(529), 03G(253)"
+    "size": "01G(489), 03G(249)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus Heritage Ppaf Betbox",
-    "size": "01G(1391), 03G(335)"
+    "size": "03G(335), 01G(1391)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus M Green Beauty",
-    "size": "01G(634)"
+    "size": "01G(259)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Buxus M Japonica",
-    "size": "01G(1), 05G(60)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus M Winter Gem",
-    "size": "02G(478), 05G(791), 01G(7805)"
+    "size": "02G(466), 05G(107), 01G(6012)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus Renaissance Ppaf Betbox",
-    "size": "01G(106)"
+    "size": "01G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Buxus Semp Dee Runk Sq",
+    "size": "15G(2)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Buxus Skylight Ppaf Betbox",
-    "size": "01G(3029), 03G(180)"
+    "size": "01G(2709), 03G(136)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Calamagrostis A Avalanche",
-    "size": "01G(100)"
+    "size": "01G(50)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Calamagrostis A Karl Foerster",
-    "size": "05G(1080)"
+    "size": "05G(1374)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Callistemon Vim Little John",
-    "size": "05G(291)"
+    "size": "05G(51)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam H Chansonette",
-    "size": "01G(105-Specials)"
+    "size": "01G(68-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam J Debutante",
-    "size": "05G(472-Specials)"
+    "size": "05G(446-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam J Kramers Supreme Es",
-    "size": "05G(422)"
+    "size": "05G(409)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam J Kramers Supreme",
-    "size": "05G(204-Specials)"
+    "size": "05G(145-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam J Marie Bracey",
-    "size": "01G(1155), 05G(418-Specials)"
+    "size": "05G(390-Specials), 01G(536)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam S Kanjiro",
-    "size": "05G(766-Specials)"
+    "size": "05G(754-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam S Setsugekka",
-    "size": "05G(562-Specials)"
+    "size": "05G(558-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cam S Yuletide",
-    "size": "05G(936-NoBuds), 15G(13)"
+    "size": "05G(911-NoBuds), 15G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Campsis Madame Galen Stk",
-    "size": "01G(46), 05G(203)"
+    "size": "01G(21), 05G(133)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Campsis Minnesota Red Stk",
     "size": "05G(250)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Canna Tropicanna R Ati",
-    "size": "008 INCH(119)"
+    "size": "008 INCH(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Canna Tropicanna R Black Ppaf Ati",
-    "size": "008 INCH(59)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Carex O Evergold Ppaf",
-    "size": "01G(158)"
+    "size": "01G(71)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Ceanothus Yankee Point",
     "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cedrus Atlantica Glauca",
-    "size": "10G(10)"
+    "size": "10G(6)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Cedrus Deodara",
+    "size": "15G(6)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Celtis Sinensis",
     "size": "30G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Ceratostigma Plumbaginoides",
-    "size": "01G(240)"
+    "size": "01G(102)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Cercis Can Oklahoma",
-    "size": "15G(15)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Cercidium Desert Museum Tf",
+    "size": "30G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Chitalpa Tashkentensis Pink Dawn",
-    "size": "15G(22)"
+    "size": "15G(17)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Chondropetalum Tectorum",
-    "size": "01G(1081), 05G(19)"
+    "size": "01G(945), 05G(165)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cistus Hybridus",
-    "size": "05G(62)"
+    "size": "01G(800), 05G(56)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Cistus Little Miss Sunshine Pp22364 Sun",
+    "size": "01G(3)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cistus Purpureus",
-    "size": "05G(55), 01G(318)"
+    "size": "05G(303), 01G(1508)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Cistus Skanbergii",
+    "size": "01G(190), 05G(50)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Citrus Eureka Lemon Var Sdf",
     "size": "05G(94)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Citrus Meyer Lemon Improved Sdf",
-    "size": "05G(174-Specials)"
+    "size": "05G(4-Specials), 05G(174-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Citrus Meyer Lemon Improved Wrap",
-    "size": "01G(504)"
+    "size": "01G(345), 01G(504)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Citrus Washington Navel Sdf",
     "size": "05G(189-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Coleonema Pulchrum California Sunset",
-    "size": "01G(1016)"
+    "size": "05G(566), 01G(1107-Buds, Past Bloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cordyline Electric Pink P19213",
-    "size": "05G(24), 01G(174)"
+    "size": "01G(68)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Cotinus Coggygria Royal Purple",
-    "size": "05G(13)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Cornus Alba Ivory Halo",
+    "size": "05G(100)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cotoneaster Dammeri Coral Beauty",
-    "size": "01G(943-Buds)"
+    "size": "01G(937-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cotoneaster Dammeri Lowfast",
-    "size": "01G(824)"
+    "size": "01G(580)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cupressocyparis Leylandii",
-    "size": "15G(90)"
+    "size": "05G(153), 15G(73)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Cupressus Semp Glauca",
-    "size": "15G(296), 01G(3098-Specials), 05G(820)"
+    "size": "15G(671), 01G(3264-Specials), 05G(632)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Dianella Clarity Blue Pp27348 Sun",
-    "size": "008 INCH(439)"
+    "size": "01G(150), 008 INCH(424)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Dianella Tasmanica Variegata",
-    "size": "01G(206), 05G(444)"
+    "size": "01G(71), 05G(306)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Dietes Bicolor",
-    "size": "05G(1348)"
+    "size": "05G(1049), 01G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Dietes Iridioides",
-    "size": "05G(1487-Specials), 01G(1006)"
+    "size": "01G(2144), 05G(146-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Dipladenia Madinia Deep Red Ppaf",
-    "size": "01G(56-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Dodonaea Viscosa Purpurea",
-    "size": "05G(202)"
+    "size": "05G(44)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Duranta E Sweet Memories Stk",
-    "size": "01G(297)"
+    "size": "05G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Elymus Condensatus Canyon Prince",
-    "size": "01G(35)"
+    "size": "01G(77)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Erianthus Ravennae",
-    "size": "05G(156), 01G(850)"
+    "size": "05G(202), 01G(1025)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Erigeron Karvinskianus",
-    "size": "01G(57)"
+    "size": "01G(390-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Escallonia Exoniensis Fradesi",
-    "size": "05G(904-BudBloom), 01G(147-Buds)"
+    "size": "05G(769-BudBloom), 01G(100-PastBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Aureo-Marginatus",
-    "size": "01G(1651-Specials)"
+    "size": "01G(3848-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Green Spire",
-    "size": "01G(2232), 05G(808-Specials)"
+    "size": "05G(759-Specials), 01G(1982)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Microphyllus",
-    "size": "05G(127), 01G(264-Specials)"
+    "size": "01G(494-Specials), 05G(87)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Micro Variegatus",
-    "size": "01G(650)"
+    "size": "01G(360)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Silver King",
-    "size": "05G(765), 01G(877)"
+    "size": "01G(768), 05G(705)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Chollipo",
-    "size": "01G(1342-Specials), 05G(366-Specials)"
+    "size": "01G(1342-Specials), 05G(201-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Chollipo Es",
-    "size": "15G(64)"
+    "size": "15G(8)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus J Chollipo Pyramid",
-    "size": "05G(1135-Specials)"
+    "size": "05G(972-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus Kiautschovicus Manhattan",
-    "size": "05G(468)"
+    "size": "05G(451)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Euonymus Kiautschovicus Manhattan Es",
-    "size": "15G(477)"
+    "size": "15G(446)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Fatsia Japonica",
-    "size": "01G(861-Specials), 05G(646)"
+    "size": "05G(466)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Feijoa Sellowiana",
-    "size": "05G(152)"
+    "size": "05G(343)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Festuca Glauca Elijah Blue",
-    "size": "01G(8)"
+    "size": "01G(2)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Festuca Mairei",
-    "size": "01G(203)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Ficus C Brown Turkey",
-    "size": "05G(365-Fruit)"
+    "size": "05G(326-Fruit)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Ficus Pumila Stk",
-    "size": "01G(41), 05G(1148)"
+    "size": "05G(980)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Gardenia J Veitchii",
-    "size": "05G(3357), 01G(4493), 013 INCH(10), 010 INCH(2-Buds), 011 INCH(1-Buds)"
+    "size": "011 INCH(1-Buds), 01G(4144), 010 INCH(3-Buds), 05G(2691)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Gardenia J Veitchii Es",
-    "size": "05G(294-BudBloom)"
+    "size": "05G(240-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Gazania Frosty Kiss Yellow",
+    "size": "01G(700-BudBloom)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Gelsemium Sempervirens Stk",
-    "size": "15G(44), 05G(62)"
+    "size": "15G(35), 05G(154), 01G(90)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hedera Helix Thorndale Es",
     "size": "15G(8)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hedera Helix Stk",
-    "size": "05G(125)"
+    "size": "05G(88)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Heuchera Sanguinea",
-    "size": "01G(314)"
+    "size": "01G(233)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Santana",
-    "size": "01G(1449-Buds), 05G(48)"
+    "size": "01G(527-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Tw Orange Sunset W",
-    "size": "01G(435-BudBloom), 05G(2), 013 INCH(8)"
+    "size": "01G(46-BudBloom), 05G(580)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Tw Sunny Pp17623",
-    "size": "01G(738-BudBloom)"
+    "size": "01G(651-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Tw Sunny Pp17623 Pt3",
     "size": "05G(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Tw Tortuga W Pp23939",
-    "size": "05G(313-BudBloom), 01G(817-BudBloom)"
+    "size": "013 INCH(8), 03G(1), 01G(102-BudBloom), 05G(5-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Hibiscus Tw Tye Dye Pp18250",
-    "size": "05G(1069-BudBloom), 01G(504-BudBloom)"
+    "size": "01G(262-BudBloom), 03G(8), 013 INCH(80)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Hyd End Sum The Original Pp15298",
-    "size": "05G(118)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Hyd Mac Niko Blue",
+    "size": "05G(58)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Iris Douglasiana",
-    "size": "01G(46)"
+    "size": "01G(464)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Jasminum Polyanthum Stk",
-    "size": "01G(210-Specials), 05G(53)"
+    "size": "01G(553-Specials), 05G(52)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Jasminum Sambac",
-    "size": "013 INCH(36-BudBloom), 05G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Chin Blue Point Sp",
-    "size": "05G(707)"
+    "size": "05G(663)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Chin Blue Point",
-    "size": "15G(1043-Specials), 05G(320)"
+    "size": "15G(1122-Specials), 05G(437)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Chin Old Gold",
-    "size": "01G(968-Specials), 05G(492)"
+    "size": "01G(955-Specials), 05G(472)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Chin Sea Green",
-    "size": "01G(1594-Specials), 05G(633)"
+    "size": "01G(1961-Specials), 05G(710)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Chin Spearmint",
-    "size": "15G(136)"
+    "size": "15G(10)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Horizontalis Blue Chip",
-    "size": "05G(2019-Specials)"
+    "size": "05G(1984-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Juniperus Horizontalis Hughes",
+    "size": "01G(1073)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Procumbens Nana",
-    "size": "01G(685), 05G(403)"
+    "size": "01G(563), 05G(695)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Sab Buffalo",
-    "size": "05G(533)"
+    "size": "05G(643)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Sab Tamariscifolia",
     "size": "01G(22)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Juniperus Sc Blue Arrow",
-    "size": "01G(35)"
+    "size": "01G(40)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Lag Dwarf Pink",
-    "size": "05G(17-BudBloom)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Juniperus Sc Wichita Blue",
+    "size": "15G(256)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Lag Dwarf Red",
-    "size": "05G(69-BudBloom)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Lag Indica Cherokee Red Tf",
+    "size": "05G(8)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lag Tuscarora Tf",
-    "size": "05G(551)"
+    "size": "05G(502-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lag Zuni Tf",
-    "size": "05G(184-BudBloom)"
+    "size": "05G(100-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Lantana Montevidensis",
+    "size": "01G(38-BudBloom)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lantana New Gold",
-    "size": "01G(189), 05G(7)"
+    "size": "05G(1), 01G(148)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Lantana Spreading Yellow",
+    "size": "01G(90-BudBloom)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Laurus Nobilis",
-    "size": "15G(36)"
+    "size": "15G(18)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Ligustrum J Texanum",
-    "size": "05G(4545-Specials), 15G(452), 01G(391), 03G(135), 05G(481)"
+    "size": "03G(23), 15G(414), 01G(2639), 05G(4194-Specials), 05G(373)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Ligustrum Vicaryi",
-    "size": "05G(2)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Limonium Perezii",
+    "size": "01G(707)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Liriope Gigantea",
-    "size": "01G(1)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Liriope M Big Blue",
-    "size": "01G(109)"
+    "size": "01G(188)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Liriope M Silvery Sunproof",
-    "size": "01G(452)"
+    "size": "01G(417)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lomandra Longifolia Breeze Pp15420",
-    "size": "05G(1)"
+    "size": "05G(1001)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lonicera J Halliana Stk",
-    "size": "05G(171), 01G(34)"
+    "size": "01G(240)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lonicera H Pink Lemonade Stk",
-    "size": "01G(1)"
+    "size": "01G(180)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Loropetalum Prpl Mjsty(Plum Delight)",
-    "size": "05G(38)"
+    "size": "05G(727), 01G(654)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Lycianthes Rantonnetii Royal Robe",
-    "size": "01G(74-FullBloom)"
+    "size": "01G(1-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Magnolia Soulangeana Alexandrina Nt",
-    "size": "024 INCH BOX(1)"
+    "size": "30G(1), 024 INCH BOX(1)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Magnolia G Brackens Brown Beauty Fg",
-    "size": "05G(170-BudBloom)"
+    "size": "05G(51-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Magnolia G Kay Parris Fg",
-    "size": "15G(56)"
+    "size": "15G(7)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Man Sun Parasol R Crimson Ppaf Stk",
-    "size": "01G(10)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Magnolia G Little Gem",
+    "size": "05G(409-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Man Sun Para Garden White Pp22695 Stk",
-    "size": "05G(102)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Malus D Dorsett Golden Sdf",
+    "size": "05G(73)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Miscanthus Sinensis Adagio",
+    "size": "01G(115)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Miscanthus Sinensis Gracillimus",
-    "size": "01G(2), 05G(266)"
+    "size": "01G(102), 05G(189)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Miscanthus Sinensis Morning Light",
+    "size": "05G(3)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Miscanthus Sinensis Purpurascens",
+    "size": "01G(160)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Miscanthus Sinensis Variegatus",
-    "size": "01G(142)"
+    "size": "01G(137)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Miscanthus Sinensis Yakushima",
-    "size": "01G(420), 05G(558)"
+    "size": "01G(620), 05G(606)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Miscanthus Sinensis Zebrinus",
-    "size": "01G(385)"
+    "size": "01G(335)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Muhlenbergia Dubia",
-    "size": "01G(243)"
+    "size": "01G(224)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Muhlenbergia Reverchonii Undaunted R",
-    "size": "05G(11), 01G(1)"
+    "size": "05G(10), 01G(91)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Myoporum Putah Creek",
     "size": "01G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Myrtus Communis Compacta",
-    "size": "05G(111)"
+    "size": "05G(4)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Compacta",
-    "size": "05G(80)"
+    "size": "05G(22)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Firepower",
-    "size": "05G(1170)"
+    "size": "05G(1148)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Flirt Pp21391 Sun",
-    "size": "008 INCH(558)"
+    "size": "008 INCH(521)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Gulf Stream",
-    "size": "15G(1), 05G(467), 01G(202)"
+    "size": "15G(1), 05G(563), 01G(187)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Lemon-Lime Pp24749 Sun",
-    "size": "008 INCH(848)"
+    "size": "008 INCH(724)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Nandina D Moon Bay",
+    "size": "01G(353)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Nandina D Nana Purpurea",
+    "size": "01G(200)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina D Obsession Pp21891 Sun",
-    "size": "008 INCH(1071)"
+    "size": "008 INCH(1053)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Nandina D Obsession Pp21891 Sunb",
+    "size": "008 INCH(24)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nandina Domestica",
-    "size": "05G(751), 01G(862)"
+    "size": "01G(385), 05G(284)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nepeta Faassenii",
-    "size": "01G(223)"
+    "size": "01G(174)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nephrolepis Obliterata",
-    "size": "01G(1021)"
+    "size": "01G(1636)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Jannoch",
-    "size": "01G(212-Specials), 05G(1220-Specials)"
+    "size": "01G(41-Specials), 15G(144-FullBloom), 05G(954-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Little Red",
-    "size": "01G(986-Bud/bloom, Specials), 05G(417)"
+    "size": "05G(509-FullBloom), 01G(681-Bud/bloom, Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Nerium Oleander Mrs Roeding",
-    "size": "05G(10)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Petite Pink",
-    "size": "05G(827-BudBloom)"
+    "size": "05G(704)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Petite Salmon",
-    "size": "05G(28)"
+    "size": "05G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Petite White",
-    "size": "01G(8-BudBloom), 05G(80-BudBloom)"
+    "size": "05G(16-BudBloomFullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander Pink Beauty",
-    "size": "01G(611-BudBloom), 05G(608)"
+    "size": "01G(251-BudBloom), 05G(422), 15G(84-FullBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Nerium Oleander White",
-    "size": "01G(333-BudBloom), 05G(689)"
+    "size": "05G(397), 15G(193-FullBloom), 01G(80-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Olea Europaea Dwarf",
-    "size": "05G(622)"
+    "size": "05G(2503)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pandorea Jasminoides Rosea Stk",
-    "size": "01G(905), 05G(883)"
+    "size": "05G(630-BudBloom), 01G(168-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Panicum Virgatum Heavy Metal",
+    "size": "01G(115)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Panicum Virgatum Shanandoah",
-    "size": "01G(1233), 05G(288)"
+    "size": "05G(243), 01G(1138)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pennisetum Advena Rubrum",
-    "size": "01G(43)"
+    "size": "01G(28), 05G(1532-Spikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pennisetum Alop Hameln",
-    "size": "05G(100), 01G(803)"
+    "size": "05G(135), 01G(675-Spikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Pennisetum Little Bunny",
+    "size": "01G(200-Spikes)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pennisetum Karley Rose Pp12909",
-    "size": "01G(325-Spikes), 05G(305-Spikes)"
+    "size": "01G(467-Spikes), 05G(101-Spikes)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Penstemon Midnight",
+    "size": "01G(21)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Perovskia Atriplicifolia",
-    "size": "02G(400), 01G(277-BudBloom)"
+    "size": "01G(262-BudBloom), 02G(400)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Philodendron Selloum",
-    "size": "01G(562), 05G(248)"
+    "size": "05G(96), 01G(487)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Phormium Amazing Red",
-    "size": "05G(843)"
+    "size": "05G(833)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Phormium Atropurpureum",
-    "size": "01G(111), 05G(52)"
+    "size": "05G(49), 01G(99)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Phormium Tenax Jack Spratt",
-    "size": "01G(389)"
+    "size": "01G(1360)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Phormium Platts Black",
+    "size": "05G(87)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Phormium Sundowner",
-    "size": "01G(100), 05G(729)"
+    "size": "01G(85), 05G(654)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Phormium Tom Thumb",
+    "size": "01G(285)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Photinia Fraseri",
-    "size": "01G(9415-Specials), 05G(311), 03G(267)"
+    "size": "01G(9329-Specials), 05G(236)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Pistacia Red Push Tf",
+    "size": "15G(5)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pittosporum Ten Beach Ball Pp28726 Sun",
-    "size": "008 INCH(306)"
+    "size": "008 INCH(88)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Pittosporum Tob Wheelers Dwarf",
-    "size": "01G(1221-Specials), 05G(71)"
+    "size": "01G(76-Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Thuja Orientalis Aurea Nana",
-    "size": "01G(1136)"
+    "size": "01G(1139)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Plumbago A Imperial Blue",
-    "size": "05G(26)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Podocarpus Gracilior Col",
-    "size": "05G(467)"
+    "size": "05G(172)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Podocarpus Roman Candle P28582 Sun",
     "size": "03G(50)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Prunus Avium Coral Champagne",
-    "size": "05G(108)"
+    "size": "05G(61)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Prunus Caroliniana Tf",
-    "size": "05G(54)"
+    "size": "05G(24)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Prunus Salicina Santa Rosa",
-    "size": "05G(86)"
+    "size": "05G(46)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Prunus Domestica Satsuma",
+    "size": "05G(53)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Prunus Persica Gleason Elberta",
+    "size": "05G(22)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Prunus P Redhaven Semi Dwarf",
+    "size": "05G(66)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Pyrus Communis Bartlett Sdf",
+    "size": "05G(81)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Pyrus Communis Beurre Danjou Sdf",
     "size": "05G(96)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Prunus Persica Gleason Elberta",
-    "size": "05G(57)"
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Quercus Lobata",
+    "size": "30G(5)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Prunus P Redhaven Semi Dwarf",
-    "size": "05G(116)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Punica Granatum Wonderful",
-    "size": "05G(19)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rhamnus Californica Eve Case",
-    "size": "15G(21)"
+    "size": "15G(13)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rhaph Indica Bay Breeze",
-    "size": "01G(67-PastBloom), 05G(395-PastBloom)"
+    "size": "01G(15-PastBloom), 05G(334-PastBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rhaph Indica Pink Dancer",
-    "size": "05G(441-BudBloom), 01G(1263)"
+    "size": "05G(332-BudBloom), 01G(1036)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rhus Trilobata Autumn Amber",
     "size": "05G(3)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Dee-Lish R",
-    "size": "02G(131-Buds)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Eternal Flame Pp18918",
-    "size": "02G(42-Buds)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Fl Cpt Amber Pp17098",
-    "size": "008 INCH(130)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Fl Cpt Mini Cherry Ppaf",
-    "size": "008 INCH(82-Buds)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Fl Cpt White",
-    "size": "008 INCH(15)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosa Iceberg",
-    "size": "02G(300)"
+    "size": "05G(84-BudBloom), 02G(46)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Rosa Knock Out R Double Pink Pp18507",
+    "size": "02G(14)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosa Knock Out R Double Red Pp16202",
-    "size": "02G(252-Specials)"
+    "size": "02G(447-Bud/bloom, Specials)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosa Knock Out Easy Bee Zy Ppaf",
-    "size": "02G(306-Buds)"
+    "size": "02G(100-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosa Knock Out R Red Pp11836",
     "size": "02G(225)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Rosa Olympiad",
-    "size": "02G(323-BudBloom)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosmarinus O Prostratus",
-    "size": "01G(664)"
+    "size": "01G(440)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rosmarinus O Tuscan Blue",
-    "size": "01G(427), 013 INCH(90), 05G(1414)"
+    "size": "013 INCH(78), 01G(601), 05G(1039)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rubus Calycinoides Emerald Carpet",
-    "size": "01G(502)"
+    "size": "01G(479)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Rumohra Adiantiformis",
-    "size": "05G(95), 01G(205)"
+    "size": "01G(510)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Sarcococca Ruscifolia",
-    "size": "02G(100)"
+    "size": "02G(29)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Schizachyrium Scoparium The Blues",
+    "size": "01G(300)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Solanum Jasminoides Stk",
-    "size": "01G(271), 05G(648)"
+    "size": "01G(132-BudBloom), 05G(689-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Sphaeropteris Cooperi",
-    "size": "05G(95)"
+    "size": "05G(43)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Strelitzia Nicolai",
-    "size": "01G(400)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Tecomaria Capensis",
-    "size": "01G(173)"
+    "size": "05G(216)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Thuja Plicata Green Giant",
-    "size": "05G(165)"
+    "size": "05G(175)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Thunbergia Sunny Susy New Orange Stk",
+    "size": "05G(6)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Trachelospermum Jasminoides",
-    "size": "01G(518)"
+    "size": "01G(538)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Trachelospermum Jasminoides Es",
-    "size": "15G(27)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Trachelospermum Jasminoides Stk",
-    "size": "01G(46-Buds)"
+    "size": "05G(137), 01G(1209-Buds)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
+    "name": "Tulbaghia V Variegated",
+    "size": "01G(17)"
+  },
+  {
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Viburnum Tinus Spring Bouquet",
-    "size": "05G(503-BudBloom)"
+    "size": "05G(492-BudBloom)"
   },
   {
-    "company": "EVERDE 07-27_XLS (Winters)",
+    "company": "EVERDE 8-03_XLS (Winters)",
     "name": "Xylosma Congestum Compacta",
-    "size": "15G(116)"
-  },
-  {
-    "company": "EVERDE 07-27_XLS (Winters)",
-    "name": "Ziziphus Jujuba Honey Jar",
-    "size": "05G(44)"
+    "size": "15G(46), 05G(171)"
   },
   {
     "company": "Four Winds 7-27_XLS",
